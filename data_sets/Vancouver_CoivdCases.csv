@@ -1,0 +1,2025 @@
+Date,Province,HA,HSDA,Cases_Reported,Cases_Reported_Smoothed,Year,Month,Day,Day of Week
+2020-01-29,BC,Vancouver Coastal,Vancouver,0,0.0,2020,01,29,Wednesday
+2020-01-29,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,01,29,Wednesday
+2020-01-29,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,01,29,Wednesday
+2020-01-29,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,01,29,Wednesday
+2020-01-30,BC,Vancouver Coastal,Vancouver,0,0.0,2020,01,30,Thursday
+2020-01-30,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,01,30,Thursday
+2020-01-30,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,01,30,Thursday
+2020-01-30,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,01,30,Thursday
+2020-01-31,BC,Vancouver Coastal,Vancouver,0,0.0,2020,01,31,Friday
+2020-01-31,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,01,31,Friday
+2020-01-31,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,01,31,Friday
+2020-01-31,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,01,31,Friday
+2020-02-01,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,01,Saturday
+2020-02-01,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,01,Saturday
+2020-02-01,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,01,Saturday
+2020-02-01,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,01,Saturday
+2020-02-02,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,02,Sunday
+2020-02-02,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,02,Sunday
+2020-02-02,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,02,Sunday
+2020-02-02,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,02,Sunday
+2020-02-03,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,03,Monday
+2020-02-03,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,03,Monday
+2020-02-03,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,03,Monday
+2020-02-03,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,03,Monday
+2020-02-04,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,04,Tuesday
+2020-02-04,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,04,Tuesday
+2020-02-04,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,04,Tuesday
+2020-02-04,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,04,Tuesday
+2020-02-05,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,05,Wednesday
+2020-02-05,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,05,Wednesday
+2020-02-05,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,05,Wednesday
+2020-02-05,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,05,Wednesday
+2020-02-06,BC,Vancouver Coastal,Vancouver,1,0.14,2020,02,06,Thursday
+2020-02-06,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,06,Thursday
+2020-02-06,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,06,Thursday
+2020-02-06,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,06,Thursday
+2020-02-07,BC,Vancouver Coastal,Vancouver,0,0.14,2020,02,07,Friday
+2020-02-07,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,07,Friday
+2020-02-07,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,07,Friday
+2020-02-07,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,07,Friday
+2020-02-08,BC,Vancouver Coastal,Vancouver,0,0.14,2020,02,08,Saturday
+2020-02-08,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,08,Saturday
+2020-02-08,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,08,Saturday
+2020-02-08,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,08,Saturday
+2020-02-09,BC,Vancouver Coastal,Vancouver,0,0.14,2020,02,09,Sunday
+2020-02-09,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,09,Sunday
+2020-02-09,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,09,Sunday
+2020-02-09,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,09,Sunday
+2020-02-10,BC,Vancouver Coastal,Vancouver,0,0.14,2020,02,10,Monday
+2020-02-10,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,10,Monday
+2020-02-10,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,10,Monday
+2020-02-10,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,10,Monday
+2020-02-11,BC,Vancouver Coastal,Vancouver,0,0.14,2020,02,11,Tuesday
+2020-02-11,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,11,Tuesday
+2020-02-11,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,11,Tuesday
+2020-02-11,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,11,Tuesday
+2020-02-12,BC,Vancouver Coastal,Vancouver,0,0.14,2020,02,12,Wednesday
+2020-02-12,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,12,Wednesday
+2020-02-12,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,12,Wednesday
+2020-02-12,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,12,Wednesday
+2020-02-13,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,13,Thursday
+2020-02-13,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,13,Thursday
+2020-02-13,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,13,Thursday
+2020-02-13,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,13,Thursday
+2020-02-14,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,14,Friday
+2020-02-14,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,14,Friday
+2020-02-14,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,14,Friday
+2020-02-14,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,14,Friday
+2020-02-15,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,15,Saturday
+2020-02-15,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,15,Saturday
+2020-02-15,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,15,Saturday
+2020-02-15,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,15,Saturday
+2020-02-16,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,16,Sunday
+2020-02-16,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,16,Sunday
+2020-02-16,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,16,Sunday
+2020-02-16,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,16,Sunday
+2020-02-17,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,17,Monday
+2020-02-17,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,17,Monday
+2020-02-17,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,17,Monday
+2020-02-17,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,17,Monday
+2020-02-18,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,18,Tuesday
+2020-02-18,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,18,Tuesday
+2020-02-18,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,18,Tuesday
+2020-02-18,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,18,Tuesday
+2020-02-19,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,19,Wednesday
+2020-02-19,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,19,Wednesday
+2020-02-19,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,19,Wednesday
+2020-02-19,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,19,Wednesday
+2020-02-20,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,20,Thursday
+2020-02-20,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,20,Thursday
+2020-02-20,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,20,Thursday
+2020-02-20,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,20,Thursday
+2020-02-21,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,21,Friday
+2020-02-21,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,21,Friday
+2020-02-21,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,21,Friday
+2020-02-21,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,21,Friday
+2020-02-22,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,22,Saturday
+2020-02-22,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,22,Saturday
+2020-02-22,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,22,Saturday
+2020-02-22,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,22,Saturday
+2020-02-23,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,23,Sunday
+2020-02-23,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,23,Sunday
+2020-02-23,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,23,Sunday
+2020-02-23,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,23,Sunday
+2020-02-24,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,24,Monday
+2020-02-24,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,24,Monday
+2020-02-24,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,24,Monday
+2020-02-24,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,24,Monday
+2020-02-25,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,25,Tuesday
+2020-02-25,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,25,Tuesday
+2020-02-25,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,25,Tuesday
+2020-02-25,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,25,Tuesday
+2020-02-26,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,26,Wednesday
+2020-02-26,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,26,Wednesday
+2020-02-26,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,26,Wednesday
+2020-02-26,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,26,Wednesday
+2020-02-27,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,27,Thursday
+2020-02-27,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,27,Thursday
+2020-02-27,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,27,Thursday
+2020-02-27,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,27,Thursday
+2020-02-28,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,28,Friday
+2020-02-28,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,28,Friday
+2020-02-28,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,28,Friday
+2020-02-28,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,28,Friday
+2020-02-29,BC,Vancouver Coastal,Vancouver,0,0.0,2020,02,29,Saturday
+2020-02-29,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,02,29,Saturday
+2020-02-29,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,02,29,Saturday
+2020-02-29,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,02,29,Saturday
+2020-03-01,BC,Vancouver Coastal,Vancouver,0,0.0,2020,03,01,Sunday
+2020-03-01,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,03,01,Sunday
+2020-03-01,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,03,01,Sunday
+2020-03-01,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,03,01,Sunday
+2020-03-02,BC,Vancouver Coastal,Vancouver,0,0.0,2020,03,02,Monday
+2020-03-02,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,03,02,Monday
+2020-03-02,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,03,02,Monday
+2020-03-02,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,03,02,Monday
+2020-03-03,BC,Vancouver Coastal,Vancouver,3,0.43,2020,03,03,Tuesday
+2020-03-03,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,03,03,Tuesday
+2020-03-03,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,03,03,Tuesday
+2020-03-03,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,03,03,Tuesday
+2020-03-04,BC,Vancouver Coastal,Vancouver,0,0.43,2020,03,04,Wednesday
+2020-03-04,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,03,04,Wednesday
+2020-03-04,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,03,04,Wednesday
+2020-03-04,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,03,04,Wednesday
+2020-03-05,BC,Vancouver Coastal,Vancouver,2,0.71,2020,03,05,Thursday
+2020-03-05,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,03,05,Thursday
+2020-03-05,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,03,05,Thursday
+2020-03-05,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,03,05,Thursday
+2020-03-06,BC,Vancouver Coastal,Vancouver,0,0.71,2020,03,06,Friday
+2020-03-06,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,03,06,Friday
+2020-03-06,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,03,06,Friday
+2020-03-06,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,03,06,Friday
+2020-03-07,BC,Vancouver Coastal,Vancouver,1,0.86,2020,03,07,Saturday
+2020-03-07,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,03,07,Saturday
+2020-03-07,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,03,07,Saturday
+2020-03-07,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,03,07,Saturday
+2020-03-08,BC,Vancouver Coastal,Vancouver,0,0.86,2020,03,08,Sunday
+2020-03-08,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,03,08,Sunday
+2020-03-08,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,03,08,Sunday
+2020-03-08,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,03,08,Sunday
+2020-03-09,BC,Vancouver Coastal,Vancouver,0,0.86,2020,03,09,Monday
+2020-03-09,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,03,09,Monday
+2020-03-09,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,03,09,Monday
+2020-03-09,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,03,09,Monday
+2020-03-10,BC,Vancouver Coastal,Vancouver,3,0.86,2020,03,10,Tuesday
+2020-03-10,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,03,10,Tuesday
+2020-03-10,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,03,10,Tuesday
+2020-03-10,BC,Vancouver Island,South Vancouver Island,1,0.14,2020,03,10,Tuesday
+2020-03-11,BC,Vancouver Coastal,Vancouver,4,1.43,2020,03,11,Wednesday
+2020-03-11,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,03,11,Wednesday
+2020-03-11,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,03,11,Wednesday
+2020-03-11,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,03,11,Wednesday
+2020-03-12,BC,Vancouver Coastal,Vancouver,2,1.43,2020,03,12,Thursday
+2020-03-12,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,03,12,Thursday
+2020-03-12,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,03,12,Thursday
+2020-03-12,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,03,12,Thursday
+2020-03-13,BC,Vancouver Coastal,Vancouver,3,1.86,2020,03,13,Friday
+2020-03-13,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,03,13,Friday
+2020-03-13,BC,Vancouver Island,North Vancouver Island,1,0.14,2020,03,13,Friday
+2020-03-13,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,03,13,Friday
+2020-03-14,BC,Vancouver Coastal,Vancouver,8,2.86,2020,03,14,Saturday
+2020-03-14,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,03,14,Saturday
+2020-03-14,BC,Vancouver Island,North Vancouver Island,2,0.43,2020,03,14,Saturday
+2020-03-14,BC,Vancouver Island,South Vancouver Island,1,0.29,2020,03,14,Saturday
+2020-03-15,BC,Vancouver Coastal,Vancouver,4,3.43,2020,03,15,Sunday
+2020-03-15,BC,Vancouver Island,Central Vancouver Island,1,0.14,2020,03,15,Sunday
+2020-03-15,BC,Vancouver Island,North Vancouver Island,1,0.57,2020,03,15,Sunday
+2020-03-15,BC,Vancouver Island,South Vancouver Island,1,0.43,2020,03,15,Sunday
+2020-03-16,BC,Vancouver Coastal,Vancouver,11,5.0,2020,03,16,Monday
+2020-03-16,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,03,16,Monday
+2020-03-16,BC,Vancouver Island,North Vancouver Island,1,0.71,2020,03,16,Monday
+2020-03-16,BC,Vancouver Island,South Vancouver Island,4,1.0,2020,03,16,Monday
+2020-03-17,BC,Vancouver Coastal,Vancouver,9,5.86,2020,03,17,Tuesday
+2020-03-17,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,03,17,Tuesday
+2020-03-17,BC,Vancouver Island,North Vancouver Island,2,1.0,2020,03,17,Tuesday
+2020-03-17,BC,Vancouver Island,South Vancouver Island,0,0.86,2020,03,17,Tuesday
+2020-03-18,BC,Vancouver Coastal,Vancouver,15,7.43,2020,03,18,Wednesday
+2020-03-18,BC,Vancouver Island,Central Vancouver Island,1,0.29,2020,03,18,Wednesday
+2020-03-18,BC,Vancouver Island,North Vancouver Island,3,1.43,2020,03,18,Wednesday
+2020-03-18,BC,Vancouver Island,South Vancouver Island,3,1.29,2020,03,18,Wednesday
+2020-03-19,BC,Vancouver Coastal,Vancouver,19,9.86,2020,03,19,Thursday
+2020-03-19,BC,Vancouver Island,Central Vancouver Island,2,0.57,2020,03,19,Thursday
+2020-03-19,BC,Vancouver Island,North Vancouver Island,2,1.71,2020,03,19,Thursday
+2020-03-19,BC,Vancouver Island,South Vancouver Island,4,1.86,2020,03,19,Thursday
+2020-03-20,BC,Vancouver Coastal,Vancouver,21,12.43,2020,03,20,Friday
+2020-03-20,BC,Vancouver Island,Central Vancouver Island,1,0.71,2020,03,20,Friday
+2020-03-20,BC,Vancouver Island,North Vancouver Island,1,1.71,2020,03,20,Friday
+2020-03-20,BC,Vancouver Island,South Vancouver Island,3,2.29,2020,03,20,Friday
+2020-03-21,BC,Vancouver Coastal,Vancouver,25,14.86,2020,03,21,Saturday
+2020-03-21,BC,Vancouver Island,Central Vancouver Island,1,0.86,2020,03,21,Saturday
+2020-03-21,BC,Vancouver Island,North Vancouver Island,0,1.43,2020,03,21,Saturday
+2020-03-21,BC,Vancouver Island,South Vancouver Island,1,2.29,2020,03,21,Saturday
+2020-03-22,BC,Vancouver Coastal,Vancouver,17,16.71,2020,03,22,Sunday
+2020-03-22,BC,Vancouver Island,Central Vancouver Island,1,0.86,2020,03,22,Sunday
+2020-03-22,BC,Vancouver Island,North Vancouver Island,0,1.29,2020,03,22,Sunday
+2020-03-22,BC,Vancouver Island,South Vancouver Island,4,2.71,2020,03,22,Sunday
+2020-03-23,BC,Vancouver Coastal,Vancouver,15,17.29,2020,03,23,Monday
+2020-03-23,BC,Vancouver Island,Central Vancouver Island,0,0.86,2020,03,23,Monday
+2020-03-23,BC,Vancouver Island,North Vancouver Island,0,1.14,2020,03,23,Monday
+2020-03-23,BC,Vancouver Island,South Vancouver Island,1,2.29,2020,03,23,Monday
+2020-03-24,BC,Vancouver Coastal,Vancouver,15,18.14,2020,03,24,Tuesday
+2020-03-24,BC,Vancouver Island,Central Vancouver Island,0,0.86,2020,03,24,Tuesday
+2020-03-24,BC,Vancouver Island,North Vancouver Island,0,0.86,2020,03,24,Tuesday
+2020-03-24,BC,Vancouver Island,South Vancouver Island,3,2.71,2020,03,24,Tuesday
+2020-03-25,BC,Vancouver Coastal,Vancouver,31,20.43,2020,03,25,Wednesday
+2020-03-25,BC,Vancouver Island,Central Vancouver Island,0,0.71,2020,03,25,Wednesday
+2020-03-25,BC,Vancouver Island,North Vancouver Island,3,0.86,2020,03,25,Wednesday
+2020-03-25,BC,Vancouver Island,South Vancouver Island,2,2.57,2020,03,25,Wednesday
+2020-03-26,BC,Vancouver Coastal,Vancouver,11,19.29,2020,03,26,Thursday
+2020-03-26,BC,Vancouver Island,Central Vancouver Island,1,0.57,2020,03,26,Thursday
+2020-03-26,BC,Vancouver Island,North Vancouver Island,2,0.86,2020,03,26,Thursday
+2020-03-26,BC,Vancouver Island,South Vancouver Island,2,2.29,2020,03,26,Thursday
+2020-03-27,BC,Vancouver Coastal,Vancouver,18,18.86,2020,03,27,Friday
+2020-03-27,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,03,27,Friday
+2020-03-27,BC,Vancouver Island,North Vancouver Island,2,1.0,2020,03,27,Friday
+2020-03-27,BC,Vancouver Island,South Vancouver Island,1,2.0,2020,03,27,Friday
+2020-03-28,BC,Vancouver Coastal,Vancouver,15,17.43,2020,03,28,Saturday
+2020-03-28,BC,Vancouver Island,Central Vancouver Island,4,0.86,2020,03,28,Saturday
+2020-03-28,BC,Vancouver Island,North Vancouver Island,1,1.14,2020,03,28,Saturday
+2020-03-28,BC,Vancouver Island,South Vancouver Island,1,2.0,2020,03,28,Saturday
+2020-03-29,BC,Vancouver Coastal,Vancouver,14,17.0,2020,03,29,Sunday
+2020-03-29,BC,Vancouver Island,Central Vancouver Island,0,0.71,2020,03,29,Sunday
+2020-03-29,BC,Vancouver Island,North Vancouver Island,0,1.14,2020,03,29,Sunday
+2020-03-29,BC,Vancouver Island,South Vancouver Island,0,1.43,2020,03,29,Sunday
+2020-03-30,BC,Vancouver Coastal,Vancouver,11,16.43,2020,03,30,Monday
+2020-03-30,BC,Vancouver Island,Central Vancouver Island,1,0.86,2020,03,30,Monday
+2020-03-30,BC,Vancouver Island,North Vancouver Island,0,1.14,2020,03,30,Monday
+2020-03-30,BC,Vancouver Island,South Vancouver Island,0,1.29,2020,03,30,Monday
+2020-03-31,BC,Vancouver Coastal,Vancouver,9,15.57,2020,03,31,Tuesday
+2020-03-31,BC,Vancouver Island,Central Vancouver Island,1,1.0,2020,03,31,Tuesday
+2020-03-31,BC,Vancouver Island,North Vancouver Island,0,1.14,2020,03,31,Tuesday
+2020-03-31,BC,Vancouver Island,South Vancouver Island,4,1.43,2020,03,31,Tuesday
+2020-04-01,BC,Vancouver Coastal,Vancouver,12,12.86,2020,04,01,Wednesday
+2020-04-01,BC,Vancouver Island,Central Vancouver Island,0,1.0,2020,04,01,Wednesday
+2020-04-01,BC,Vancouver Island,North Vancouver Island,0,0.71,2020,04,01,Wednesday
+2020-04-01,BC,Vancouver Island,South Vancouver Island,0,1.14,2020,04,01,Wednesday
+2020-04-02,BC,Vancouver Coastal,Vancouver,11,12.86,2020,04,02,Thursday
+2020-04-02,BC,Vancouver Island,Central Vancouver Island,1,1.0,2020,04,02,Thursday
+2020-04-02,BC,Vancouver Island,North Vancouver Island,0,0.43,2020,04,02,Thursday
+2020-04-02,BC,Vancouver Island,South Vancouver Island,1,1.0,2020,04,02,Thursday
+2020-04-03,BC,Vancouver Coastal,Vancouver,7,11.29,2020,04,03,Friday
+2020-04-03,BC,Vancouver Island,Central Vancouver Island,1,1.14,2020,04,03,Friday
+2020-04-03,BC,Vancouver Island,North Vancouver Island,1,0.29,2020,04,03,Friday
+2020-04-03,BC,Vancouver Island,South Vancouver Island,1,1.0,2020,04,03,Friday
+2020-04-04,BC,Vancouver Coastal,Vancouver,8,10.29,2020,04,04,Saturday
+2020-04-04,BC,Vancouver Island,Central Vancouver Island,2,0.86,2020,04,04,Saturday
+2020-04-04,BC,Vancouver Island,North Vancouver Island,1,0.29,2020,04,04,Saturday
+2020-04-04,BC,Vancouver Island,South Vancouver Island,0,0.86,2020,04,04,Saturday
+2020-04-05,BC,Vancouver Coastal,Vancouver,2,8.57,2020,04,05,Sunday
+2020-04-05,BC,Vancouver Island,Central Vancouver Island,0,0.86,2020,04,05,Sunday
+2020-04-05,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,04,05,Sunday
+2020-04-05,BC,Vancouver Island,South Vancouver Island,0,0.86,2020,04,05,Sunday
+2020-04-06,BC,Vancouver Coastal,Vancouver,18,9.57,2020,04,06,Monday
+2020-04-06,BC,Vancouver Island,Central Vancouver Island,0,0.71,2020,04,06,Monday
+2020-04-06,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,04,06,Monday
+2020-04-06,BC,Vancouver Island,South Vancouver Island,0,0.86,2020,04,06,Monday
+2020-04-07,BC,Vancouver Coastal,Vancouver,4,8.86,2020,04,07,Tuesday
+2020-04-07,BC,Vancouver Island,Central Vancouver Island,1,0.71,2020,04,07,Tuesday
+2020-04-07,BC,Vancouver Island,North Vancouver Island,1,0.43,2020,04,07,Tuesday
+2020-04-07,BC,Vancouver Island,South Vancouver Island,0,0.29,2020,04,07,Tuesday
+2020-04-08,BC,Vancouver Coastal,Vancouver,7,8.14,2020,04,08,Wednesday
+2020-04-08,BC,Vancouver Island,Central Vancouver Island,0,0.71,2020,04,08,Wednesday
+2020-04-08,BC,Vancouver Island,North Vancouver Island,0,0.43,2020,04,08,Wednesday
+2020-04-08,BC,Vancouver Island,South Vancouver Island,1,0.43,2020,04,08,Wednesday
+2020-04-09,BC,Vancouver Coastal,Vancouver,5,7.29,2020,04,09,Thursday
+2020-04-09,BC,Vancouver Island,Central Vancouver Island,1,0.71,2020,04,09,Thursday
+2020-04-09,BC,Vancouver Island,North Vancouver Island,0,0.43,2020,04,09,Thursday
+2020-04-09,BC,Vancouver Island,South Vancouver Island,1,0.43,2020,04,09,Thursday
+2020-04-10,BC,Vancouver Coastal,Vancouver,8,7.43,2020,04,10,Friday
+2020-04-10,BC,Vancouver Island,Central Vancouver Island,0,0.57,2020,04,10,Friday
+2020-04-10,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,04,10,Friday
+2020-04-10,BC,Vancouver Island,South Vancouver Island,0,0.29,2020,04,10,Friday
+2020-04-11,BC,Vancouver Coastal,Vancouver,2,6.57,2020,04,11,Saturday
+2020-04-11,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,04,11,Saturday
+2020-04-11,BC,Vancouver Island,North Vancouver Island,1,0.29,2020,04,11,Saturday
+2020-04-11,BC,Vancouver Island,South Vancouver Island,1,0.43,2020,04,11,Saturday
+2020-04-12,BC,Vancouver Coastal,Vancouver,1,6.43,2020,04,12,Sunday
+2020-04-12,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,04,12,Sunday
+2020-04-12,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,04,12,Sunday
+2020-04-12,BC,Vancouver Island,South Vancouver Island,1,0.57,2020,04,12,Sunday
+2020-04-13,BC,Vancouver Coastal,Vancouver,7,4.86,2020,04,13,Monday
+2020-04-13,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,04,13,Monday
+2020-04-13,BC,Vancouver Island,North Vancouver Island,2,0.57,2020,04,13,Monday
+2020-04-13,BC,Vancouver Island,South Vancouver Island,0,0.57,2020,04,13,Monday
+2020-04-14,BC,Vancouver Coastal,Vancouver,6,5.14,2020,04,14,Tuesday
+2020-04-14,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,04,14,Tuesday
+2020-04-14,BC,Vancouver Island,North Vancouver Island,2,0.71,2020,04,14,Tuesday
+2020-04-14,BC,Vancouver Island,South Vancouver Island,1,0.71,2020,04,14,Tuesday
+2020-04-15,BC,Vancouver Coastal,Vancouver,1,4.29,2020,04,15,Wednesday
+2020-04-15,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,04,15,Wednesday
+2020-04-15,BC,Vancouver Island,North Vancouver Island,2,1.0,2020,04,15,Wednesday
+2020-04-15,BC,Vancouver Island,South Vancouver Island,0,0.57,2020,04,15,Wednesday
+2020-04-16,BC,Vancouver Coastal,Vancouver,4,4.14,2020,04,16,Thursday
+2020-04-16,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,04,16,Thursday
+2020-04-16,BC,Vancouver Island,North Vancouver Island,0,1.0,2020,04,16,Thursday
+2020-04-16,BC,Vancouver Island,South Vancouver Island,0,0.43,2020,04,16,Thursday
+2020-04-17,BC,Vancouver Coastal,Vancouver,5,3.71,2020,04,17,Friday
+2020-04-17,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,04,17,Friday
+2020-04-17,BC,Vancouver Island,North Vancouver Island,3,1.43,2020,04,17,Friday
+2020-04-17,BC,Vancouver Island,South Vancouver Island,0,0.43,2020,04,17,Friday
+2020-04-18,BC,Vancouver Coastal,Vancouver,9,4.71,2020,04,18,Saturday
+2020-04-18,BC,Vancouver Island,Central Vancouver Island,1,0.14,2020,04,18,Saturday
+2020-04-18,BC,Vancouver Island,North Vancouver Island,3,1.71,2020,04,18,Saturday
+2020-04-18,BC,Vancouver Island,South Vancouver Island,0,0.29,2020,04,18,Saturday
+2020-04-19,BC,Vancouver Coastal,Vancouver,4,5.14,2020,04,19,Sunday
+2020-04-19,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,04,19,Sunday
+2020-04-19,BC,Vancouver Island,North Vancouver Island,1,1.86,2020,04,19,Sunday
+2020-04-19,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,04,19,Sunday
+2020-04-20,BC,Vancouver Coastal,Vancouver,5,4.86,2020,04,20,Monday
+2020-04-20,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,04,20,Monday
+2020-04-20,BC,Vancouver Island,North Vancouver Island,7,2.57,2020,04,20,Monday
+2020-04-20,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,04,20,Monday
+2020-04-21,BC,Vancouver Coastal,Vancouver,30,8.29,2020,04,21,Tuesday
+2020-04-21,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,04,21,Tuesday
+2020-04-21,BC,Vancouver Island,North Vancouver Island,0,2.29,2020,04,21,Tuesday
+2020-04-21,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,04,21,Tuesday
+2020-04-22,BC,Vancouver Coastal,Vancouver,5,8.86,2020,04,22,Wednesday
+2020-04-22,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,04,22,Wednesday
+2020-04-22,BC,Vancouver Island,North Vancouver Island,2,2.29,2020,04,22,Wednesday
+2020-04-22,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,04,22,Wednesday
+2020-04-23,BC,Vancouver Coastal,Vancouver,7,9.29,2020,04,23,Thursday
+2020-04-23,BC,Vancouver Island,Central Vancouver Island,2,0.43,2020,04,23,Thursday
+2020-04-23,BC,Vancouver Island,North Vancouver Island,2,2.57,2020,04,23,Thursday
+2020-04-23,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,04,23,Thursday
+2020-04-24,BC,Vancouver Coastal,Vancouver,7,9.57,2020,04,24,Friday
+2020-04-24,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,04,24,Friday
+2020-04-24,BC,Vancouver Island,North Vancouver Island,1,2.29,2020,04,24,Friday
+2020-04-24,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,04,24,Friday
+2020-04-25,BC,Vancouver Coastal,Vancouver,8,9.43,2020,04,25,Saturday
+2020-04-25,BC,Vancouver Island,Central Vancouver Island,1,0.43,2020,04,25,Saturday
+2020-04-25,BC,Vancouver Island,North Vancouver Island,0,1.86,2020,04,25,Saturday
+2020-04-25,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,04,25,Saturday
+2020-04-26,BC,Vancouver Coastal,Vancouver,0,8.86,2020,04,26,Sunday
+2020-04-26,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,04,26,Sunday
+2020-04-26,BC,Vancouver Island,North Vancouver Island,1,1.86,2020,04,26,Sunday
+2020-04-26,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,04,26,Sunday
+2020-04-27,BC,Vancouver Coastal,Vancouver,10,9.57,2020,04,27,Monday
+2020-04-27,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,04,27,Monday
+2020-04-27,BC,Vancouver Island,North Vancouver Island,3,1.29,2020,04,27,Monday
+2020-04-27,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,04,27,Monday
+2020-04-28,BC,Vancouver Coastal,Vancouver,2,5.57,2020,04,28,Tuesday
+2020-04-28,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,04,28,Tuesday
+2020-04-28,BC,Vancouver Island,North Vancouver Island,1,1.43,2020,04,28,Tuesday
+2020-04-28,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,04,28,Tuesday
+2020-04-29,BC,Vancouver Coastal,Vancouver,3,5.29,2020,04,29,Wednesday
+2020-04-29,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,04,29,Wednesday
+2020-04-29,BC,Vancouver Island,North Vancouver Island,0,1.14,2020,04,29,Wednesday
+2020-04-29,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,04,29,Wednesday
+2020-04-30,BC,Vancouver Coastal,Vancouver,6,5.14,2020,04,30,Thursday
+2020-04-30,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,04,30,Thursday
+2020-04-30,BC,Vancouver Island,North Vancouver Island,1,1.0,2020,04,30,Thursday
+2020-04-30,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,04,30,Thursday
+2020-05-01,BC,Vancouver Coastal,Vancouver,0,4.14,2020,05,01,Friday
+2020-05-01,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,05,01,Friday
+2020-05-01,BC,Vancouver Island,North Vancouver Island,2,1.14,2020,05,01,Friday
+2020-05-01,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,01,Friday
+2020-05-02,BC,Vancouver Coastal,Vancouver,7,4.0,2020,05,02,Saturday
+2020-05-02,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,02,Saturday
+2020-05-02,BC,Vancouver Island,North Vancouver Island,1,1.29,2020,05,02,Saturday
+2020-05-02,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,02,Saturday
+2020-05-03,BC,Vancouver Coastal,Vancouver,3,4.43,2020,05,03,Sunday
+2020-05-03,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,03,Sunday
+2020-05-03,BC,Vancouver Island,North Vancouver Island,0,1.14,2020,05,03,Sunday
+2020-05-03,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,03,Sunday
+2020-05-04,BC,Vancouver Coastal,Vancouver,0,3.0,2020,05,04,Monday
+2020-05-04,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,04,Monday
+2020-05-04,BC,Vancouver Island,North Vancouver Island,0,0.71,2020,05,04,Monday
+2020-05-04,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,04,Monday
+2020-05-05,BC,Vancouver Coastal,Vancouver,3,3.14,2020,05,05,Tuesday
+2020-05-05,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,05,Tuesday
+2020-05-05,BC,Vancouver Island,North Vancouver Island,0,0.57,2020,05,05,Tuesday
+2020-05-05,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,05,Tuesday
+2020-05-06,BC,Vancouver Coastal,Vancouver,6,3.57,2020,05,06,Wednesday
+2020-05-06,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,06,Wednesday
+2020-05-06,BC,Vancouver Island,North Vancouver Island,0,0.57,2020,05,06,Wednesday
+2020-05-06,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,06,Wednesday
+2020-05-07,BC,Vancouver Coastal,Vancouver,6,3.57,2020,05,07,Thursday
+2020-05-07,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,07,Thursday
+2020-05-07,BC,Vancouver Island,North Vancouver Island,1,0.57,2020,05,07,Thursday
+2020-05-07,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,07,Thursday
+2020-05-08,BC,Vancouver Coastal,Vancouver,3,4.0,2020,05,08,Friday
+2020-05-08,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,08,Friday
+2020-05-08,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,05,08,Friday
+2020-05-08,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,08,Friday
+2020-05-09,BC,Vancouver Coastal,Vancouver,0,3.0,2020,05,09,Saturday
+2020-05-09,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,09,Saturday
+2020-05-09,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,05,09,Saturday
+2020-05-09,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,09,Saturday
+2020-05-10,BC,Vancouver Coastal,Vancouver,1,2.71,2020,05,10,Sunday
+2020-05-10,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,10,Sunday
+2020-05-10,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,05,10,Sunday
+2020-05-10,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,10,Sunday
+2020-05-11,BC,Vancouver Coastal,Vancouver,1,2.86,2020,05,11,Monday
+2020-05-11,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,11,Monday
+2020-05-11,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,05,11,Monday
+2020-05-11,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,11,Monday
+2020-05-12,BC,Vancouver Coastal,Vancouver,2,2.71,2020,05,12,Tuesday
+2020-05-12,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,12,Tuesday
+2020-05-12,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,05,12,Tuesday
+2020-05-12,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,12,Tuesday
+2020-05-13,BC,Vancouver Coastal,Vancouver,0,1.86,2020,05,13,Wednesday
+2020-05-13,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,13,Wednesday
+2020-05-13,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,05,13,Wednesday
+2020-05-13,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,13,Wednesday
+2020-05-14,BC,Vancouver Coastal,Vancouver,0,1.0,2020,05,14,Thursday
+2020-05-14,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,14,Thursday
+2020-05-14,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,14,Thursday
+2020-05-14,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,14,Thursday
+2020-05-15,BC,Vancouver Coastal,Vancouver,0,0.57,2020,05,15,Friday
+2020-05-15,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,15,Friday
+2020-05-15,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,15,Friday
+2020-05-15,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,15,Friday
+2020-05-16,BC,Vancouver Coastal,Vancouver,2,0.86,2020,05,16,Saturday
+2020-05-16,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,16,Saturday
+2020-05-16,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,16,Saturday
+2020-05-16,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,16,Saturday
+2020-05-17,BC,Vancouver Coastal,Vancouver,1,0.86,2020,05,17,Sunday
+2020-05-17,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,17,Sunday
+2020-05-17,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,17,Sunday
+2020-05-17,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,17,Sunday
+2020-05-18,BC,Vancouver Coastal,Vancouver,0,0.71,2020,05,18,Monday
+2020-05-18,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,18,Monday
+2020-05-18,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,18,Monday
+2020-05-18,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,18,Monday
+2020-05-19,BC,Vancouver Coastal,Vancouver,0,0.43,2020,05,19,Tuesday
+2020-05-19,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,19,Tuesday
+2020-05-19,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,19,Tuesday
+2020-05-19,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,19,Tuesday
+2020-05-20,BC,Vancouver Coastal,Vancouver,0,0.43,2020,05,20,Wednesday
+2020-05-20,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,20,Wednesday
+2020-05-20,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,20,Wednesday
+2020-05-20,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,20,Wednesday
+2020-05-21,BC,Vancouver Coastal,Vancouver,3,0.86,2020,05,21,Thursday
+2020-05-21,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,21,Thursday
+2020-05-21,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,21,Thursday
+2020-05-21,BC,Vancouver Island,South Vancouver Island,2,0.29,2020,05,21,Thursday
+2020-05-22,BC,Vancouver Coastal,Vancouver,1,1.0,2020,05,22,Friday
+2020-05-22,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,22,Friday
+2020-05-22,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,22,Friday
+2020-05-22,BC,Vancouver Island,South Vancouver Island,1,0.43,2020,05,22,Friday
+2020-05-23,BC,Vancouver Coastal,Vancouver,2,1.0,2020,05,23,Saturday
+2020-05-23,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,23,Saturday
+2020-05-23,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,23,Saturday
+2020-05-23,BC,Vancouver Island,South Vancouver Island,0,0.43,2020,05,23,Saturday
+2020-05-24,BC,Vancouver Coastal,Vancouver,0,0.86,2020,05,24,Sunday
+2020-05-24,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,24,Sunday
+2020-05-24,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,24,Sunday
+2020-05-24,BC,Vancouver Island,South Vancouver Island,0,0.43,2020,05,24,Sunday
+2020-05-25,BC,Vancouver Coastal,Vancouver,1,1.0,2020,05,25,Monday
+2020-05-25,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,25,Monday
+2020-05-25,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,25,Monday
+2020-05-25,BC,Vancouver Island,South Vancouver Island,0,0.43,2020,05,25,Monday
+2020-05-26,BC,Vancouver Coastal,Vancouver,0,1.0,2020,05,26,Tuesday
+2020-05-26,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,26,Tuesday
+2020-05-26,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,26,Tuesday
+2020-05-26,BC,Vancouver Island,South Vancouver Island,0,0.43,2020,05,26,Tuesday
+2020-05-27,BC,Vancouver Coastal,Vancouver,2,1.29,2020,05,27,Wednesday
+2020-05-27,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,27,Wednesday
+2020-05-27,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,27,Wednesday
+2020-05-27,BC,Vancouver Island,South Vancouver Island,0,0.43,2020,05,27,Wednesday
+2020-05-28,BC,Vancouver Coastal,Vancouver,0,0.86,2020,05,28,Thursday
+2020-05-28,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,28,Thursday
+2020-05-28,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,28,Thursday
+2020-05-28,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,05,28,Thursday
+2020-05-29,BC,Vancouver Coastal,Vancouver,2,1.0,2020,05,29,Friday
+2020-05-29,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,29,Friday
+2020-05-29,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,29,Friday
+2020-05-29,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,29,Friday
+2020-05-30,BC,Vancouver Coastal,Vancouver,0,0.71,2020,05,30,Saturday
+2020-05-30,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,30,Saturday
+2020-05-30,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,30,Saturday
+2020-05-30,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,30,Saturday
+2020-05-31,BC,Vancouver Coastal,Vancouver,0,0.71,2020,05,31,Sunday
+2020-05-31,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,05,31,Sunday
+2020-05-31,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,05,31,Sunday
+2020-05-31,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,05,31,Sunday
+2020-06-01,BC,Vancouver Coastal,Vancouver,0,0.57,2020,06,01,Monday
+2020-06-01,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,01,Monday
+2020-06-01,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,01,Monday
+2020-06-01,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,01,Monday
+2020-06-02,BC,Vancouver Coastal,Vancouver,0,0.57,2020,06,02,Tuesday
+2020-06-02,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,02,Tuesday
+2020-06-02,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,02,Tuesday
+2020-06-02,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,02,Tuesday
+2020-06-03,BC,Vancouver Coastal,Vancouver,0,0.29,2020,06,03,Wednesday
+2020-06-03,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,03,Wednesday
+2020-06-03,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,03,Wednesday
+2020-06-03,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,03,Wednesday
+2020-06-04,BC,Vancouver Coastal,Vancouver,0,0.29,2020,06,04,Thursday
+2020-06-04,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,04,Thursday
+2020-06-04,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,04,Thursday
+2020-06-04,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,04,Thursday
+2020-06-05,BC,Vancouver Coastal,Vancouver,0,0.0,2020,06,05,Friday
+2020-06-05,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,05,Friday
+2020-06-05,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,05,Friday
+2020-06-05,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,05,Friday
+2020-06-06,BC,Vancouver Coastal,Vancouver,0,0.0,2020,06,06,Saturday
+2020-06-06,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,06,Saturday
+2020-06-06,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,06,Saturday
+2020-06-06,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,06,Saturday
+2020-06-07,BC,Vancouver Coastal,Vancouver,0,0.0,2020,06,07,Sunday
+2020-06-07,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,07,Sunday
+2020-06-07,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,07,Sunday
+2020-06-07,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,07,Sunday
+2020-06-08,BC,Vancouver Coastal,Vancouver,1,0.14,2020,06,08,Monday
+2020-06-08,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,08,Monday
+2020-06-08,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,08,Monday
+2020-06-08,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,08,Monday
+2020-06-09,BC,Vancouver Coastal,Vancouver,4,0.71,2020,06,09,Tuesday
+2020-06-09,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,09,Tuesday
+2020-06-09,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,09,Tuesday
+2020-06-09,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,09,Tuesday
+2020-06-10,BC,Vancouver Coastal,Vancouver,2,1.0,2020,06,10,Wednesday
+2020-06-10,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,10,Wednesday
+2020-06-10,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,10,Wednesday
+2020-06-10,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,10,Wednesday
+2020-06-11,BC,Vancouver Coastal,Vancouver,5,1.71,2020,06,11,Thursday
+2020-06-11,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,11,Thursday
+2020-06-11,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,11,Thursday
+2020-06-11,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,11,Thursday
+2020-06-12,BC,Vancouver Coastal,Vancouver,5,2.43,2020,06,12,Friday
+2020-06-12,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,12,Friday
+2020-06-12,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,12,Friday
+2020-06-12,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,12,Friday
+2020-06-13,BC,Vancouver Coastal,Vancouver,3,2.86,2020,06,13,Saturday
+2020-06-13,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,13,Saturday
+2020-06-13,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,13,Saturday
+2020-06-13,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,13,Saturday
+2020-06-14,BC,Vancouver Coastal,Vancouver,2,3.14,2020,06,14,Sunday
+2020-06-14,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,14,Sunday
+2020-06-14,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,14,Sunday
+2020-06-14,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,14,Sunday
+2020-06-15,BC,Vancouver Coastal,Vancouver,3,3.43,2020,06,15,Monday
+2020-06-15,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,15,Monday
+2020-06-15,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,15,Monday
+2020-06-15,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,15,Monday
+2020-06-16,BC,Vancouver Coastal,Vancouver,4,3.43,2020,06,16,Tuesday
+2020-06-16,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,16,Tuesday
+2020-06-16,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,16,Tuesday
+2020-06-16,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,16,Tuesday
+2020-06-17,BC,Vancouver Coastal,Vancouver,2,3.43,2020,06,17,Wednesday
+2020-06-17,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,17,Wednesday
+2020-06-17,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,17,Wednesday
+2020-06-17,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,17,Wednesday
+2020-06-18,BC,Vancouver Coastal,Vancouver,1,2.86,2020,06,18,Thursday
+2020-06-18,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,18,Thursday
+2020-06-18,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,18,Thursday
+2020-06-18,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,18,Thursday
+2020-06-19,BC,Vancouver Coastal,Vancouver,1,2.29,2020,06,19,Friday
+2020-06-19,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,19,Friday
+2020-06-19,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,19,Friday
+2020-06-19,BC,Vancouver Island,South Vancouver Island,1,0.14,2020,06,19,Friday
+2020-06-20,BC,Vancouver Coastal,Vancouver,0,1.86,2020,06,20,Saturday
+2020-06-20,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,20,Saturday
+2020-06-20,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,20,Saturday
+2020-06-20,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,06,20,Saturday
+2020-06-21,BC,Vancouver Coastal,Vancouver,3,2.0,2020,06,21,Sunday
+2020-06-21,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,21,Sunday
+2020-06-21,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,21,Sunday
+2020-06-21,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,06,21,Sunday
+2020-06-22,BC,Vancouver Coastal,Vancouver,3,2.0,2020,06,22,Monday
+2020-06-22,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,22,Monday
+2020-06-22,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,22,Monday
+2020-06-22,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,06,22,Monday
+2020-06-23,BC,Vancouver Coastal,Vancouver,2,1.71,2020,06,23,Tuesday
+2020-06-23,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,23,Tuesday
+2020-06-23,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,23,Tuesday
+2020-06-23,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,06,23,Tuesday
+2020-06-24,BC,Vancouver Coastal,Vancouver,6,2.29,2020,06,24,Wednesday
+2020-06-24,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,24,Wednesday
+2020-06-24,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,24,Wednesday
+2020-06-24,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,06,24,Wednesday
+2020-06-25,BC,Vancouver Coastal,Vancouver,1,2.29,2020,06,25,Thursday
+2020-06-25,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,25,Thursday
+2020-06-25,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,25,Thursday
+2020-06-25,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,06,25,Thursday
+2020-06-26,BC,Vancouver Coastal,Vancouver,2,2.43,2020,06,26,Friday
+2020-06-26,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,26,Friday
+2020-06-26,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,26,Friday
+2020-06-26,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,26,Friday
+2020-06-27,BC,Vancouver Coastal,Vancouver,4,3.0,2020,06,27,Saturday
+2020-06-27,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,27,Saturday
+2020-06-27,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,27,Saturday
+2020-06-27,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,27,Saturday
+2020-06-28,BC,Vancouver Coastal,Vancouver,2,2.86,2020,06,28,Sunday
+2020-06-28,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,28,Sunday
+2020-06-28,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,28,Sunday
+2020-06-28,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,06,28,Sunday
+2020-06-29,BC,Vancouver Coastal,Vancouver,2,2.71,2020,06,29,Monday
+2020-06-29,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,06,29,Monday
+2020-06-29,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,29,Monday
+2020-06-29,BC,Vancouver Island,South Vancouver Island,1,0.14,2020,06,29,Monday
+2020-06-30,BC,Vancouver Coastal,Vancouver,5,3.14,2020,06,30,Tuesday
+2020-06-30,BC,Vancouver Island,Central Vancouver Island,1,0.14,2020,06,30,Tuesday
+2020-06-30,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,06,30,Tuesday
+2020-06-30,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,06,30,Tuesday
+2020-07-01,BC,Vancouver Coastal,Vancouver,1,2.43,2020,07,01,Wednesday
+2020-07-01,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,01,Wednesday
+2020-07-01,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,01,Wednesday
+2020-07-01,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,01,Wednesday
+2020-07-02,BC,Vancouver Coastal,Vancouver,5,3.0,2020,07,02,Thursday
+2020-07-02,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,02,Thursday
+2020-07-02,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,02,Thursday
+2020-07-02,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,02,Thursday
+2020-07-03,BC,Vancouver Coastal,Vancouver,2,3.0,2020,07,03,Friday
+2020-07-03,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,03,Friday
+2020-07-03,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,03,Friday
+2020-07-03,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,03,Friday
+2020-07-04,BC,Vancouver Coastal,Vancouver,5,3.14,2020,07,04,Saturday
+2020-07-04,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,04,Saturday
+2020-07-04,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,04,Saturday
+2020-07-04,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,04,Saturday
+2020-07-05,BC,Vancouver Coastal,Vancouver,5,3.57,2020,07,05,Sunday
+2020-07-05,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,05,Sunday
+2020-07-05,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,05,Sunday
+2020-07-05,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,05,Sunday
+2020-07-06,BC,Vancouver Coastal,Vancouver,1,3.43,2020,07,06,Monday
+2020-07-06,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,06,Monday
+2020-07-06,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,06,Monday
+2020-07-06,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,07,06,Monday
+2020-07-07,BC,Vancouver Coastal,Vancouver,4,3.29,2020,07,07,Tuesday
+2020-07-07,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,07,07,Tuesday
+2020-07-07,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,07,Tuesday
+2020-07-07,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,07,07,Tuesday
+2020-07-08,BC,Vancouver Coastal,Vancouver,5,3.86,2020,07,08,Wednesday
+2020-07-08,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,07,08,Wednesday
+2020-07-08,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,08,Wednesday
+2020-07-08,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,07,08,Wednesday
+2020-07-09,BC,Vancouver Coastal,Vancouver,2,3.43,2020,07,09,Thursday
+2020-07-09,BC,Vancouver Island,Central Vancouver Island,1,0.14,2020,07,09,Thursday
+2020-07-09,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,09,Thursday
+2020-07-09,BC,Vancouver Island,South Vancouver Island,1,0.14,2020,07,09,Thursday
+2020-07-10,BC,Vancouver Coastal,Vancouver,9,4.43,2020,07,10,Friday
+2020-07-10,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,10,Friday
+2020-07-10,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,10,Friday
+2020-07-10,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,10,Friday
+2020-07-11,BC,Vancouver Coastal,Vancouver,8,4.86,2020,07,11,Saturday
+2020-07-11,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,11,Saturday
+2020-07-11,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,11,Saturday
+2020-07-11,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,11,Saturday
+2020-07-12,BC,Vancouver Coastal,Vancouver,8,5.29,2020,07,12,Sunday
+2020-07-12,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,12,Sunday
+2020-07-12,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,12,Sunday
+2020-07-12,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,12,Sunday
+2020-07-13,BC,Vancouver Coastal,Vancouver,2,5.43,2020,07,13,Monday
+2020-07-13,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,13,Monday
+2020-07-13,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,13,Monday
+2020-07-13,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,13,Monday
+2020-07-14,BC,Vancouver Coastal,Vancouver,5,5.57,2020,07,14,Tuesday
+2020-07-14,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,14,Tuesday
+2020-07-14,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,14,Tuesday
+2020-07-14,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,14,Tuesday
+2020-07-15,BC,Vancouver Coastal,Vancouver,5,5.57,2020,07,15,Wednesday
+2020-07-15,BC,Vancouver Island,Central Vancouver Island,1,0.29,2020,07,15,Wednesday
+2020-07-15,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,15,Wednesday
+2020-07-15,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,15,Wednesday
+2020-07-16,BC,Vancouver Coastal,Vancouver,3,5.71,2020,07,16,Thursday
+2020-07-16,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,16,Thursday
+2020-07-16,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,16,Thursday
+2020-07-16,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,07,16,Thursday
+2020-07-17,BC,Vancouver Coastal,Vancouver,5,5.14,2020,07,17,Friday
+2020-07-17,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,17,Friday
+2020-07-17,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,17,Friday
+2020-07-17,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,07,17,Friday
+2020-07-18,BC,Vancouver Coastal,Vancouver,1,4.14,2020,07,18,Saturday
+2020-07-18,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,18,Saturday
+2020-07-18,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,18,Saturday
+2020-07-18,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,07,18,Saturday
+2020-07-19,BC,Vancouver Coastal,Vancouver,1,3.14,2020,07,19,Sunday
+2020-07-19,BC,Vancouver Island,Central Vancouver Island,3,0.57,2020,07,19,Sunday
+2020-07-19,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,19,Sunday
+2020-07-19,BC,Vancouver Island,South Vancouver Island,1,0.14,2020,07,19,Sunday
+2020-07-20,BC,Vancouver Coastal,Vancouver,4,3.43,2020,07,20,Monday
+2020-07-20,BC,Vancouver Island,Central Vancouver Island,0,0.57,2020,07,20,Monday
+2020-07-20,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,20,Monday
+2020-07-20,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,20,Monday
+2020-07-21,BC,Vancouver Coastal,Vancouver,5,3.43,2020,07,21,Tuesday
+2020-07-21,BC,Vancouver Island,Central Vancouver Island,1,0.71,2020,07,21,Tuesday
+2020-07-21,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,21,Tuesday
+2020-07-21,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,21,Tuesday
+2020-07-22,BC,Vancouver Coastal,Vancouver,1,2.86,2020,07,22,Wednesday
+2020-07-22,BC,Vancouver Island,Central Vancouver Island,1,0.71,2020,07,22,Wednesday
+2020-07-22,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,22,Wednesday
+2020-07-22,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,22,Wednesday
+2020-07-23,BC,Vancouver Coastal,Vancouver,4,3.0,2020,07,23,Thursday
+2020-07-23,BC,Vancouver Island,Central Vancouver Island,0,0.71,2020,07,23,Thursday
+2020-07-23,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,23,Thursday
+2020-07-23,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,23,Thursday
+2020-07-24,BC,Vancouver Coastal,Vancouver,2,2.57,2020,07,24,Friday
+2020-07-24,BC,Vancouver Island,Central Vancouver Island,0,0.71,2020,07,24,Friday
+2020-07-24,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,24,Friday
+2020-07-24,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,24,Friday
+2020-07-25,BC,Vancouver Coastal,Vancouver,2,2.71,2020,07,25,Saturday
+2020-07-25,BC,Vancouver Island,Central Vancouver Island,0,0.71,2020,07,25,Saturday
+2020-07-25,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,25,Saturday
+2020-07-25,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,07,25,Saturday
+2020-07-26,BC,Vancouver Coastal,Vancouver,1,2.71,2020,07,26,Sunday
+2020-07-26,BC,Vancouver Island,Central Vancouver Island,1,0.43,2020,07,26,Sunday
+2020-07-26,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,26,Sunday
+2020-07-26,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,07,26,Sunday
+2020-07-27,BC,Vancouver Coastal,Vancouver,2,2.43,2020,07,27,Monday
+2020-07-27,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,07,27,Monday
+2020-07-27,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,27,Monday
+2020-07-27,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,07,27,Monday
+2020-07-28,BC,Vancouver Coastal,Vancouver,1,1.86,2020,07,28,Tuesday
+2020-07-28,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,07,28,Tuesday
+2020-07-28,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,28,Tuesday
+2020-07-28,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,07,28,Tuesday
+2020-07-29,BC,Vancouver Coastal,Vancouver,3,2.14,2020,07,29,Wednesday
+2020-07-29,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,07,29,Wednesday
+2020-07-29,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,29,Wednesday
+2020-07-29,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,07,29,Wednesday
+2020-07-30,BC,Vancouver Coastal,Vancouver,11,3.14,2020,07,30,Thursday
+2020-07-30,BC,Vancouver Island,Central Vancouver Island,1,0.29,2020,07,30,Thursday
+2020-07-30,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,30,Thursday
+2020-07-30,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,07,30,Thursday
+2020-07-31,BC,Vancouver Coastal,Vancouver,15,5.0,2020,07,31,Friday
+2020-07-31,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,07,31,Friday
+2020-07-31,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,07,31,Friday
+2020-07-31,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,07,31,Friday
+2020-08-01,BC,Vancouver Coastal,Vancouver,7,5.71,2020,08,01,Saturday
+2020-08-01,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,08,01,Saturday
+2020-08-01,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,01,Saturday
+2020-08-01,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,08,01,Saturday
+2020-08-02,BC,Vancouver Coastal,Vancouver,4,6.14,2020,08,02,Sunday
+2020-08-02,BC,Vancouver Island,Central Vancouver Island,2,0.43,2020,08,02,Sunday
+2020-08-02,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,02,Sunday
+2020-08-02,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,08,02,Sunday
+2020-08-03,BC,Vancouver Coastal,Vancouver,5,6.57,2020,08,03,Monday
+2020-08-03,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,08,03,Monday
+2020-08-03,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,03,Monday
+2020-08-03,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,08,03,Monday
+2020-08-04,BC,Vancouver Coastal,Vancouver,7,7.43,2020,08,04,Tuesday
+2020-08-04,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,08,04,Tuesday
+2020-08-04,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,04,Tuesday
+2020-08-04,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,08,04,Tuesday
+2020-08-05,BC,Vancouver Coastal,Vancouver,6,7.86,2020,08,05,Wednesday
+2020-08-05,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,08,05,Wednesday
+2020-08-05,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,05,Wednesday
+2020-08-05,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,08,05,Wednesday
+2020-08-06,BC,Vancouver Coastal,Vancouver,15,8.43,2020,08,06,Thursday
+2020-08-06,BC,Vancouver Island,Central Vancouver Island,1,0.43,2020,08,06,Thursday
+2020-08-06,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,06,Thursday
+2020-08-06,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,08,06,Thursday
+2020-08-07,BC,Vancouver Coastal,Vancouver,10,7.71,2020,08,07,Friday
+2020-08-07,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,08,07,Friday
+2020-08-07,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,07,Friday
+2020-08-07,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,08,07,Friday
+2020-08-08,BC,Vancouver Coastal,Vancouver,15,8.86,2020,08,08,Saturday
+2020-08-08,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,08,08,Saturday
+2020-08-08,BC,Vancouver Island,North Vancouver Island,1,0.14,2020,08,08,Saturday
+2020-08-08,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,08,08,Saturday
+2020-08-09,BC,Vancouver Coastal,Vancouver,16,10.57,2020,08,09,Sunday
+2020-08-09,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,08,09,Sunday
+2020-08-09,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,08,09,Sunday
+2020-08-09,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,08,09,Sunday
+2020-08-10,BC,Vancouver Coastal,Vancouver,14,11.86,2020,08,10,Monday
+2020-08-10,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,08,10,Monday
+2020-08-10,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,08,10,Monday
+2020-08-10,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,08,10,Monday
+2020-08-11,BC,Vancouver Coastal,Vancouver,34,15.71,2020,08,11,Tuesday
+2020-08-11,BC,Vancouver Island,Central Vancouver Island,1,0.29,2020,08,11,Tuesday
+2020-08-11,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,08,11,Tuesday
+2020-08-11,BC,Vancouver Island,South Vancouver Island,1,0.14,2020,08,11,Tuesday
+2020-08-12,BC,Vancouver Coastal,Vancouver,28,18.86,2020,08,12,Wednesday
+2020-08-12,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,08,12,Wednesday
+2020-08-12,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,08,12,Wednesday
+2020-08-12,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,08,12,Wednesday
+2020-08-13,BC,Vancouver Coastal,Vancouver,40,22.43,2020,08,13,Thursday
+2020-08-13,BC,Vancouver Island,Central Vancouver Island,1,0.29,2020,08,13,Thursday
+2020-08-13,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,08,13,Thursday
+2020-08-13,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,08,13,Thursday
+2020-08-14,BC,Vancouver Coastal,Vancouver,28,25.0,2020,08,14,Friday
+2020-08-14,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,08,14,Friday
+2020-08-14,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,08,14,Friday
+2020-08-14,BC,Vancouver Island,South Vancouver Island,2,0.43,2020,08,14,Friday
+2020-08-15,BC,Vancouver Coastal,Vancouver,22,26.0,2020,08,15,Saturday
+2020-08-15,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,08,15,Saturday
+2020-08-15,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,15,Saturday
+2020-08-15,BC,Vancouver Island,South Vancouver Island,0,0.43,2020,08,15,Saturday
+2020-08-16,BC,Vancouver Coastal,Vancouver,16,26.0,2020,08,16,Sunday
+2020-08-16,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,08,16,Sunday
+2020-08-16,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,16,Sunday
+2020-08-16,BC,Vancouver Island,South Vancouver Island,1,0.57,2020,08,16,Sunday
+2020-08-17,BC,Vancouver Coastal,Vancouver,10,25.43,2020,08,17,Monday
+2020-08-17,BC,Vancouver Island,Central Vancouver Island,1,0.43,2020,08,17,Monday
+2020-08-17,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,17,Monday
+2020-08-17,BC,Vancouver Island,South Vancouver Island,1,0.71,2020,08,17,Monday
+2020-08-18,BC,Vancouver Coastal,Vancouver,29,24.71,2020,08,18,Tuesday
+2020-08-18,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,08,18,Tuesday
+2020-08-18,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,18,Tuesday
+2020-08-18,BC,Vancouver Island,South Vancouver Island,2,0.86,2020,08,18,Tuesday
+2020-08-19,BC,Vancouver Coastal,Vancouver,32,25.29,2020,08,19,Wednesday
+2020-08-19,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,08,19,Wednesday
+2020-08-19,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,19,Wednesday
+2020-08-19,BC,Vancouver Island,South Vancouver Island,1,1.0,2020,08,19,Wednesday
+2020-08-20,BC,Vancouver Coastal,Vancouver,28,23.57,2020,08,20,Thursday
+2020-08-20,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,08,20,Thursday
+2020-08-20,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,20,Thursday
+2020-08-20,BC,Vancouver Island,South Vancouver Island,1,1.14,2020,08,20,Thursday
+2020-08-21,BC,Vancouver Coastal,Vancouver,31,24.0,2020,08,21,Friday
+2020-08-21,BC,Vancouver Island,Central Vancouver Island,1,0.29,2020,08,21,Friday
+2020-08-21,BC,Vancouver Island,North Vancouver Island,1,0.14,2020,08,21,Friday
+2020-08-21,BC,Vancouver Island,South Vancouver Island,2,1.14,2020,08,21,Friday
+2020-08-22,BC,Vancouver Coastal,Vancouver,18,23.43,2020,08,22,Saturday
+2020-08-22,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,08,22,Saturday
+2020-08-22,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,08,22,Saturday
+2020-08-22,BC,Vancouver Island,South Vancouver Island,0,1.14,2020,08,22,Saturday
+2020-08-23,BC,Vancouver Coastal,Vancouver,21,24.14,2020,08,23,Sunday
+2020-08-23,BC,Vancouver Island,Central Vancouver Island,1,0.43,2020,08,23,Sunday
+2020-08-23,BC,Vancouver Island,North Vancouver Island,1,0.29,2020,08,23,Sunday
+2020-08-23,BC,Vancouver Island,South Vancouver Island,0,1.0,2020,08,23,Sunday
+2020-08-24,BC,Vancouver Coastal,Vancouver,17,25.14,2020,08,24,Monday
+2020-08-24,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,08,24,Monday
+2020-08-24,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,08,24,Monday
+2020-08-24,BC,Vancouver Island,South Vancouver Island,2,1.14,2020,08,24,Monday
+2020-08-25,BC,Vancouver Coastal,Vancouver,15,23.14,2020,08,25,Tuesday
+2020-08-25,BC,Vancouver Island,Central Vancouver Island,1,0.43,2020,08,25,Tuesday
+2020-08-25,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,08,25,Tuesday
+2020-08-25,BC,Vancouver Island,South Vancouver Island,1,1.0,2020,08,25,Tuesday
+2020-08-26,BC,Vancouver Coastal,Vancouver,30,22.86,2020,08,26,Wednesday
+2020-08-26,BC,Vancouver Island,Central Vancouver Island,2,0.71,2020,08,26,Wednesday
+2020-08-26,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,08,26,Wednesday
+2020-08-26,BC,Vancouver Island,South Vancouver Island,1,1.0,2020,08,26,Wednesday
+2020-08-27,BC,Vancouver Coastal,Vancouver,50,26.0,2020,08,27,Thursday
+2020-08-27,BC,Vancouver Island,Central Vancouver Island,0,0.71,2020,08,27,Thursday
+2020-08-27,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,08,27,Thursday
+2020-08-27,BC,Vancouver Island,South Vancouver Island,0,0.86,2020,08,27,Thursday
+2020-08-28,BC,Vancouver Coastal,Vancouver,30,25.86,2020,08,28,Friday
+2020-08-28,BC,Vancouver Island,Central Vancouver Island,1,0.71,2020,08,28,Friday
+2020-08-28,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,08,28,Friday
+2020-08-28,BC,Vancouver Island,South Vancouver Island,0,0.57,2020,08,28,Friday
+2020-08-29,BC,Vancouver Coastal,Vancouver,28,27.29,2020,08,29,Saturday
+2020-08-29,BC,Vancouver Island,Central Vancouver Island,1,0.86,2020,08,29,Saturday
+2020-08-29,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,08,29,Saturday
+2020-08-29,BC,Vancouver Island,South Vancouver Island,0,0.57,2020,08,29,Saturday
+2020-08-30,BC,Vancouver Coastal,Vancouver,23,27.57,2020,08,30,Sunday
+2020-08-30,BC,Vancouver Island,Central Vancouver Island,0,0.71,2020,08,30,Sunday
+2020-08-30,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,30,Sunday
+2020-08-30,BC,Vancouver Island,South Vancouver Island,0,0.57,2020,08,30,Sunday
+2020-08-31,BC,Vancouver Coastal,Vancouver,15,27.29,2020,08,31,Monday
+2020-08-31,BC,Vancouver Island,Central Vancouver Island,1,0.86,2020,08,31,Monday
+2020-08-31,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,08,31,Monday
+2020-08-31,BC,Vancouver Island,South Vancouver Island,0,0.29,2020,08,31,Monday
+2020-09-01,BC,Vancouver Coastal,Vancouver,33,29.86,2020,09,01,Tuesday
+2020-09-01,BC,Vancouver Island,Central Vancouver Island,0,0.71,2020,09,01,Tuesday
+2020-09-01,BC,Vancouver Island,North Vancouver Island,1,0.14,2020,09,01,Tuesday
+2020-09-01,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,09,01,Tuesday
+2020-09-02,BC,Vancouver Coastal,Vancouver,25,29.14,2020,09,02,Wednesday
+2020-09-02,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,09,02,Wednesday
+2020-09-02,BC,Vancouver Island,North Vancouver Island,1,0.29,2020,09,02,Wednesday
+2020-09-02,BC,Vancouver Island,South Vancouver Island,1,0.14,2020,09,02,Wednesday
+2020-09-03,BC,Vancouver Coastal,Vancouver,46,28.57,2020,09,03,Thursday
+2020-09-03,BC,Vancouver Island,Central Vancouver Island,1,0.57,2020,09,03,Thursday
+2020-09-03,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,09,03,Thursday
+2020-09-03,BC,Vancouver Island,South Vancouver Island,1,0.29,2020,09,03,Thursday
+2020-09-04,BC,Vancouver Coastal,Vancouver,36,29.43,2020,09,04,Friday
+2020-09-04,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,09,04,Friday
+2020-09-04,BC,Vancouver Island,North Vancouver Island,1,0.43,2020,09,04,Friday
+2020-09-04,BC,Vancouver Island,South Vancouver Island,0,0.29,2020,09,04,Friday
+2020-09-05,BC,Vancouver Coastal,Vancouver,38,30.86,2020,09,05,Saturday
+2020-09-05,BC,Vancouver Island,Central Vancouver Island,1,0.43,2020,09,05,Saturday
+2020-09-05,BC,Vancouver Island,North Vancouver Island,0,0.43,2020,09,05,Saturday
+2020-09-05,BC,Vancouver Island,South Vancouver Island,0,0.29,2020,09,05,Saturday
+2020-09-06,BC,Vancouver Coastal,Vancouver,37,32.86,2020,09,06,Sunday
+2020-09-06,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,09,06,Sunday
+2020-09-06,BC,Vancouver Island,North Vancouver Island,0,0.43,2020,09,06,Sunday
+2020-09-06,BC,Vancouver Island,South Vancouver Island,1,0.43,2020,09,06,Sunday
+2020-09-07,BC,Vancouver Coastal,Vancouver,25,34.29,2020,09,07,Monday
+2020-09-07,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,09,07,Monday
+2020-09-07,BC,Vancouver Island,North Vancouver Island,0,0.43,2020,09,07,Monday
+2020-09-07,BC,Vancouver Island,South Vancouver Island,0,0.43,2020,09,07,Monday
+2020-09-08,BC,Vancouver Coastal,Vancouver,23,32.86,2020,09,08,Tuesday
+2020-09-08,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,09,08,Tuesday
+2020-09-08,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,09,08,Tuesday
+2020-09-08,BC,Vancouver Island,South Vancouver Island,1,0.57,2020,09,08,Tuesday
+2020-09-09,BC,Vancouver Coastal,Vancouver,45,35.71,2020,09,09,Wednesday
+2020-09-09,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,09,09,Wednesday
+2020-09-09,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,09,09,Wednesday
+2020-09-09,BC,Vancouver Island,South Vancouver Island,2,0.71,2020,09,09,Wednesday
+2020-09-10,BC,Vancouver Coastal,Vancouver,51,36.43,2020,09,10,Thursday
+2020-09-10,BC,Vancouver Island,Central Vancouver Island,2,0.43,2020,09,10,Thursday
+2020-09-10,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,09,10,Thursday
+2020-09-10,BC,Vancouver Island,South Vancouver Island,1,0.71,2020,09,10,Thursday
+2020-09-11,BC,Vancouver Coastal,Vancouver,48,38.14,2020,09,11,Friday
+2020-09-11,BC,Vancouver Island,Central Vancouver Island,1,0.57,2020,09,11,Friday
+2020-09-11,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,09,11,Friday
+2020-09-11,BC,Vancouver Island,South Vancouver Island,3,1.14,2020,09,11,Friday
+2020-09-12,BC,Vancouver Coastal,Vancouver,48,39.57,2020,09,12,Saturday
+2020-09-12,BC,Vancouver Island,Central Vancouver Island,1,0.57,2020,09,12,Saturday
+2020-09-12,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,09,12,Saturday
+2020-09-12,BC,Vancouver Island,South Vancouver Island,0,1.14,2020,09,12,Saturday
+2020-09-13,BC,Vancouver Coastal,Vancouver,29,38.43,2020,09,13,Sunday
+2020-09-13,BC,Vancouver Island,Central Vancouver Island,0,0.57,2020,09,13,Sunday
+2020-09-13,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,09,13,Sunday
+2020-09-13,BC,Vancouver Island,South Vancouver Island,0,1.0,2020,09,13,Sunday
+2020-09-14,BC,Vancouver Coastal,Vancouver,17,37.29,2020,09,14,Monday
+2020-09-14,BC,Vancouver Island,Central Vancouver Island,0,0.57,2020,09,14,Monday
+2020-09-14,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,09,14,Monday
+2020-09-14,BC,Vancouver Island,South Vancouver Island,0,1.0,2020,09,14,Monday
+2020-09-15,BC,Vancouver Coastal,Vancouver,44,40.29,2020,09,15,Tuesday
+2020-09-15,BC,Vancouver Island,Central Vancouver Island,0,0.57,2020,09,15,Tuesday
+2020-09-15,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,09,15,Tuesday
+2020-09-15,BC,Vancouver Island,South Vancouver Island,0,0.86,2020,09,15,Tuesday
+2020-09-16,BC,Vancouver Coastal,Vancouver,50,41.0,2020,09,16,Wednesday
+2020-09-16,BC,Vancouver Island,Central Vancouver Island,0,0.57,2020,09,16,Wednesday
+2020-09-16,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,09,16,Wednesday
+2020-09-16,BC,Vancouver Island,South Vancouver Island,1,0.71,2020,09,16,Wednesday
+2020-09-17,BC,Vancouver Coastal,Vancouver,44,40.0,2020,09,17,Thursday
+2020-09-17,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,09,17,Thursday
+2020-09-17,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,09,17,Thursday
+2020-09-17,BC,Vancouver Island,South Vancouver Island,0,0.57,2020,09,17,Thursday
+2020-09-18,BC,Vancouver Coastal,Vancouver,30,37.43,2020,09,18,Friday
+2020-09-18,BC,Vancouver Island,Central Vancouver Island,3,0.57,2020,09,18,Friday
+2020-09-18,BC,Vancouver Island,North Vancouver Island,1,0.14,2020,09,18,Friday
+2020-09-18,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,09,18,Friday
+2020-09-19,BC,Vancouver Coastal,Vancouver,27,34.43,2020,09,19,Saturday
+2020-09-19,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,09,19,Saturday
+2020-09-19,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,09,19,Saturday
+2020-09-19,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,09,19,Saturday
+2020-09-20,BC,Vancouver Coastal,Vancouver,31,34.71,2020,09,20,Sunday
+2020-09-20,BC,Vancouver Island,Central Vancouver Island,1,0.57,2020,09,20,Sunday
+2020-09-20,BC,Vancouver Island,North Vancouver Island,2,0.43,2020,09,20,Sunday
+2020-09-20,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,09,20,Sunday
+2020-09-21,BC,Vancouver Coastal,Vancouver,32,36.86,2020,09,21,Monday
+2020-09-21,BC,Vancouver Island,Central Vancouver Island,0,0.57,2020,09,21,Monday
+2020-09-21,BC,Vancouver Island,North Vancouver Island,0,0.43,2020,09,21,Monday
+2020-09-21,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,09,21,Monday
+2020-09-22,BC,Vancouver Coastal,Vancouver,23,33.86,2020,09,22,Tuesday
+2020-09-22,BC,Vancouver Island,Central Vancouver Island,0,0.57,2020,09,22,Tuesday
+2020-09-22,BC,Vancouver Island,North Vancouver Island,0,0.43,2020,09,22,Tuesday
+2020-09-22,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,09,22,Tuesday
+2020-09-23,BC,Vancouver Coastal,Vancouver,43,32.86,2020,09,23,Wednesday
+2020-09-23,BC,Vancouver Island,Central Vancouver Island,0,0.57,2020,09,23,Wednesday
+2020-09-23,BC,Vancouver Island,North Vancouver Island,0,0.43,2020,09,23,Wednesday
+2020-09-23,BC,Vancouver Island,South Vancouver Island,0,0.0,2020,09,23,Wednesday
+2020-09-24,BC,Vancouver Coastal,Vancouver,30,30.86,2020,09,24,Thursday
+2020-09-24,BC,Vancouver Island,Central Vancouver Island,0,0.57,2020,09,24,Thursday
+2020-09-24,BC,Vancouver Island,North Vancouver Island,0,0.43,2020,09,24,Thursday
+2020-09-24,BC,Vancouver Island,South Vancouver Island,1,0.14,2020,09,24,Thursday
+2020-09-25,BC,Vancouver Coastal,Vancouver,44,32.86,2020,09,25,Friday
+2020-09-25,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,09,25,Friday
+2020-09-25,BC,Vancouver Island,North Vancouver Island,1,0.43,2020,09,25,Friday
+2020-09-25,BC,Vancouver Island,South Vancouver Island,1,0.29,2020,09,25,Friday
+2020-09-26,BC,Vancouver Coastal,Vancouver,27,32.86,2020,09,26,Saturday
+2020-09-26,BC,Vancouver Island,Central Vancouver Island,0,0.14,2020,09,26,Saturday
+2020-09-26,BC,Vancouver Island,North Vancouver Island,0,0.43,2020,09,26,Saturday
+2020-09-26,BC,Vancouver Island,South Vancouver Island,0,0.29,2020,09,26,Saturday
+2020-09-27,BC,Vancouver Coastal,Vancouver,27,32.29,2020,09,27,Sunday
+2020-09-27,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,09,27,Sunday
+2020-09-27,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,09,27,Sunday
+2020-09-27,BC,Vancouver Island,South Vancouver Island,0,0.29,2020,09,27,Sunday
+2020-09-28,BC,Vancouver Coastal,Vancouver,27,31.57,2020,09,28,Monday
+2020-09-28,BC,Vancouver Island,Central Vancouver Island,0,0.0,2020,09,28,Monday
+2020-09-28,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,09,28,Monday
+2020-09-28,BC,Vancouver Island,South Vancouver Island,0,0.29,2020,09,28,Monday
+2020-09-29,BC,Vancouver Coastal,Vancouver,37,33.57,2020,09,29,Tuesday
+2020-09-29,BC,Vancouver Island,Central Vancouver Island,2,0.29,2020,09,29,Tuesday
+2020-09-29,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,09,29,Tuesday
+2020-09-29,BC,Vancouver Island,South Vancouver Island,0,0.29,2020,09,29,Tuesday
+2020-09-30,BC,Vancouver Coastal,Vancouver,45,33.86,2020,09,30,Wednesday
+2020-09-30,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,09,30,Wednesday
+2020-09-30,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,09,30,Wednesday
+2020-09-30,BC,Vancouver Island,South Vancouver Island,1,0.43,2020,09,30,Wednesday
+2020-10-01,BC,Vancouver Coastal,Vancouver,35,34.57,2020,10,01,Thursday
+2020-10-01,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,10,01,Thursday
+2020-10-01,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,10,01,Thursday
+2020-10-01,BC,Vancouver Island,South Vancouver Island,1,0.43,2020,10,01,Thursday
+2020-10-02,BC,Vancouver Coastal,Vancouver,38,33.71,2020,10,02,Friday
+2020-10-02,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,10,02,Friday
+2020-10-02,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,10,02,Friday
+2020-10-02,BC,Vancouver Island,South Vancouver Island,0,0.29,2020,10,02,Friday
+2020-10-03,BC,Vancouver Coastal,Vancouver,33,34.57,2020,10,03,Saturday
+2020-10-03,BC,Vancouver Island,Central Vancouver Island,4,0.86,2020,10,03,Saturday
+2020-10-03,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,10,03,Saturday
+2020-10-03,BC,Vancouver Island,South Vancouver Island,1,0.43,2020,10,03,Saturday
+2020-10-04,BC,Vancouver Coastal,Vancouver,29,34.86,2020,10,04,Sunday
+2020-10-04,BC,Vancouver Island,Central Vancouver Island,2,1.14,2020,10,04,Sunday
+2020-10-04,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,10,04,Sunday
+2020-10-04,BC,Vancouver Island,South Vancouver Island,3,0.86,2020,10,04,Sunday
+2020-10-05,BC,Vancouver Coastal,Vancouver,18,33.57,2020,10,05,Monday
+2020-10-05,BC,Vancouver Island,Central Vancouver Island,0,1.14,2020,10,05,Monday
+2020-10-05,BC,Vancouver Island,North Vancouver Island,2,0.29,2020,10,05,Monday
+2020-10-05,BC,Vancouver Island,South Vancouver Island,0,0.86,2020,10,05,Monday
+2020-10-06,BC,Vancouver Coastal,Vancouver,26,32.0,2020,10,06,Tuesday
+2020-10-06,BC,Vancouver Island,Central Vancouver Island,0,0.86,2020,10,06,Tuesday
+2020-10-06,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,10,06,Tuesday
+2020-10-06,BC,Vancouver Island,South Vancouver Island,0,0.86,2020,10,06,Tuesday
+2020-10-07,BC,Vancouver Coastal,Vancouver,26,29.29,2020,10,07,Wednesday
+2020-10-07,BC,Vancouver Island,Central Vancouver Island,0,0.86,2020,10,07,Wednesday
+2020-10-07,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,10,07,Wednesday
+2020-10-07,BC,Vancouver Island,South Vancouver Island,1,0.86,2020,10,07,Wednesday
+2020-10-08,BC,Vancouver Coastal,Vancouver,22,27.43,2020,10,08,Thursday
+2020-10-08,BC,Vancouver Island,Central Vancouver Island,1,1.0,2020,10,08,Thursday
+2020-10-08,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,10,08,Thursday
+2020-10-08,BC,Vancouver Island,South Vancouver Island,1,0.86,2020,10,08,Thursday
+2020-10-09,BC,Vancouver Coastal,Vancouver,40,27.71,2020,10,09,Friday
+2020-10-09,BC,Vancouver Island,Central Vancouver Island,1,1.14,2020,10,09,Friday
+2020-10-09,BC,Vancouver Island,North Vancouver Island,1,0.43,2020,10,09,Friday
+2020-10-09,BC,Vancouver Island,South Vancouver Island,1,1.0,2020,10,09,Friday
+2020-10-10,BC,Vancouver Coastal,Vancouver,21,26.0,2020,10,10,Saturday
+2020-10-10,BC,Vancouver Island,Central Vancouver Island,0,0.57,2020,10,10,Saturday
+2020-10-10,BC,Vancouver Island,North Vancouver Island,0,0.43,2020,10,10,Saturday
+2020-10-10,BC,Vancouver Island,South Vancouver Island,1,1.0,2020,10,10,Saturday
+2020-10-11,BC,Vancouver Coastal,Vancouver,23,25.14,2020,10,11,Sunday
+2020-10-11,BC,Vancouver Island,Central Vancouver Island,3,0.71,2020,10,11,Sunday
+2020-10-11,BC,Vancouver Island,North Vancouver Island,0,0.43,2020,10,11,Sunday
+2020-10-11,BC,Vancouver Island,South Vancouver Island,1,0.71,2020,10,11,Sunday
+2020-10-12,BC,Vancouver Coastal,Vancouver,31,27.0,2020,10,12,Monday
+2020-10-12,BC,Vancouver Island,Central Vancouver Island,2,1.0,2020,10,12,Monday
+2020-10-12,BC,Vancouver Island,North Vancouver Island,1,0.29,2020,10,12,Monday
+2020-10-12,BC,Vancouver Island,South Vancouver Island,0,0.71,2020,10,12,Monday
+2020-10-13,BC,Vancouver Coastal,Vancouver,26,27.0,2020,10,13,Tuesday
+2020-10-13,BC,Vancouver Island,Central Vancouver Island,1,1.14,2020,10,13,Tuesday
+2020-10-13,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,10,13,Tuesday
+2020-10-13,BC,Vancouver Island,South Vancouver Island,1,0.86,2020,10,13,Tuesday
+2020-10-14,BC,Vancouver Coastal,Vancouver,19,26.0,2020,10,14,Wednesday
+2020-10-14,BC,Vancouver Island,Central Vancouver Island,1,1.29,2020,10,14,Wednesday
+2020-10-14,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,10,14,Wednesday
+2020-10-14,BC,Vancouver Island,South Vancouver Island,1,0.86,2020,10,14,Wednesday
+2020-10-15,BC,Vancouver Coastal,Vancouver,40,28.57,2020,10,15,Thursday
+2020-10-15,BC,Vancouver Island,Central Vancouver Island,1,1.29,2020,10,15,Thursday
+2020-10-15,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,10,15,Thursday
+2020-10-15,BC,Vancouver Island,South Vancouver Island,0,0.71,2020,10,15,Thursday
+2020-10-16,BC,Vancouver Coastal,Vancouver,24,26.29,2020,10,16,Friday
+2020-10-16,BC,Vancouver Island,Central Vancouver Island,0,1.14,2020,10,16,Friday
+2020-10-16,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,10,16,Friday
+2020-10-16,BC,Vancouver Island,South Vancouver Island,2,0.86,2020,10,16,Friday
+2020-10-17,BC,Vancouver Coastal,Vancouver,19,26.0,2020,10,17,Saturday
+2020-10-17,BC,Vancouver Island,Central Vancouver Island,0,1.14,2020,10,17,Saturday
+2020-10-17,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,10,17,Saturday
+2020-10-17,BC,Vancouver Island,South Vancouver Island,0,0.71,2020,10,17,Saturday
+2020-10-18,BC,Vancouver Coastal,Vancouver,38,28.14,2020,10,18,Sunday
+2020-10-18,BC,Vancouver Island,Central Vancouver Island,0,0.71,2020,10,18,Sunday
+2020-10-18,BC,Vancouver Island,North Vancouver Island,0,0.14,2020,10,18,Sunday
+2020-10-18,BC,Vancouver Island,South Vancouver Island,0,0.57,2020,10,18,Sunday
+2020-10-19,BC,Vancouver Coastal,Vancouver,29,27.86,2020,10,19,Monday
+2020-10-19,BC,Vancouver Island,Central Vancouver Island,0,0.43,2020,10,19,Monday
+2020-10-19,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,10,19,Monday
+2020-10-19,BC,Vancouver Island,South Vancouver Island,1,0.71,2020,10,19,Monday
+2020-10-20,BC,Vancouver Coastal,Vancouver,24,27.57,2020,10,20,Tuesday
+2020-10-20,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,10,20,Tuesday
+2020-10-20,BC,Vancouver Island,North Vancouver Island,0,0.0,2020,10,20,Tuesday
+2020-10-20,BC,Vancouver Island,South Vancouver Island,0,0.57,2020,10,20,Tuesday
+2020-10-21,BC,Vancouver Coastal,Vancouver,34,29.71,2020,10,21,Wednesday
+2020-10-21,BC,Vancouver Island,Central Vancouver Island,1,0.29,2020,10,21,Wednesday
+2020-10-21,BC,Vancouver Island,North Vancouver Island,2,0.29,2020,10,21,Wednesday
+2020-10-21,BC,Vancouver Island,South Vancouver Island,1,0.57,2020,10,21,Wednesday
+2020-10-22,BC,Vancouver Coastal,Vancouver,46,30.57,2020,10,22,Thursday
+2020-10-22,BC,Vancouver Island,Central Vancouver Island,1,0.29,2020,10,22,Thursday
+2020-10-22,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,10,22,Thursday
+2020-10-22,BC,Vancouver Island,South Vancouver Island,0,0.57,2020,10,22,Thursday
+2020-10-23,BC,Vancouver Coastal,Vancouver,42,33.14,2020,10,23,Friday
+2020-10-23,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,10,23,Friday
+2020-10-23,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,10,23,Friday
+2020-10-23,BC,Vancouver Island,South Vancouver Island,0,0.29,2020,10,23,Friday
+2020-10-24,BC,Vancouver Coastal,Vancouver,25,34.0,2020,10,24,Saturday
+2020-10-24,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,10,24,Saturday
+2020-10-24,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,10,24,Saturday
+2020-10-24,BC,Vancouver Island,South Vancouver Island,0,0.29,2020,10,24,Saturday
+2020-10-25,BC,Vancouver Coastal,Vancouver,23,31.86,2020,10,25,Sunday
+2020-10-25,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,10,25,Sunday
+2020-10-25,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,10,25,Sunday
+2020-10-25,BC,Vancouver Island,South Vancouver Island,0,0.29,2020,10,25,Sunday
+2020-10-26,BC,Vancouver Coastal,Vancouver,41,33.57,2020,10,26,Monday
+2020-10-26,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,10,26,Monday
+2020-10-26,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,10,26,Monday
+2020-10-26,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,10,26,Monday
+2020-10-27,BC,Vancouver Coastal,Vancouver,32,34.71,2020,10,27,Tuesday
+2020-10-27,BC,Vancouver Island,Central Vancouver Island,0,0.29,2020,10,27,Tuesday
+2020-10-27,BC,Vancouver Island,North Vancouver Island,2,0.57,2020,10,27,Tuesday
+2020-10-27,BC,Vancouver Island,South Vancouver Island,0,0.14,2020,10,27,Tuesday
+2020-10-28,BC,Vancouver Coastal,Vancouver,31,34.29,2020,10,28,Wednesday
+2020-10-28,BC,Vancouver Island,Central Vancouver Island,1,0.29,2020,10,28,Wednesday
+2020-10-28,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,10,28,Wednesday
+2020-10-28,BC,Vancouver Island,South Vancouver Island,1,0.14,2020,10,28,Wednesday
+2020-10-29,BC,Vancouver Coastal,Vancouver,74,38.29,2020,10,29,Thursday
+2020-10-29,BC,Vancouver Island,Central Vancouver Island,1,0.29,2020,10,29,Thursday
+2020-10-29,BC,Vancouver Island,North Vancouver Island,0,0.29,2020,10,29,Thursday
+2020-10-29,BC,Vancouver Island,South Vancouver Island,1,0.29,2020,10,29,Thursday
+2020-10-30,BC,Vancouver Coastal,Vancouver,66,41.71,2020,10,30,Friday
+2020-10-30,BC,Vancouver Island,Central Vancouver Island,2,0.57,2020,10,30,Friday
+2020-10-30,BC,Vancouver Island,North Vancouver Island,2,0.57,2020,10,30,Friday
+2020-10-30,BC,Vancouver Island,South Vancouver Island,1,0.43,2020,10,30,Friday
+2020-10-31,BC,Vancouver Coastal,Vancouver,69,48.0,2020,10,31,Saturday
+2020-10-31,BC,Vancouver Island,Central Vancouver Island,0,0.57,2020,10,31,Saturday
+2020-10-31,BC,Vancouver Island,North Vancouver Island,3,1.0,2020,10,31,Saturday
+2020-10-31,BC,Vancouver Island,South Vancouver Island,1,0.57,2020,10,31,Saturday
+2020-11-01,BC,Vancouver Coastal,Vancouver,54,52.43,2020,11,01,Sunday
+2020-11-01,BC,Vancouver Island,Central Vancouver Island,0,0.57,2020,11,01,Sunday
+2020-11-01,BC,Vancouver Island,North Vancouver Island,1,1.14,2020,11,01,Sunday
+2020-11-01,BC,Vancouver Island,South Vancouver Island,1,0.71,2020,11,01,Sunday
+2020-11-02,BC,Vancouver Coastal,Vancouver,66,56.0,2020,11,02,Monday
+2020-11-02,BC,Vancouver Island,Central Vancouver Island,2,0.86,2020,11,02,Monday
+2020-11-02,BC,Vancouver Island,North Vancouver Island,1,1.29,2020,11,02,Monday
+2020-11-02,BC,Vancouver Island,South Vancouver Island,1,0.86,2020,11,02,Monday
+2020-11-03,BC,Vancouver Coastal,Vancouver,81,63.0,2020,11,03,Tuesday
+2020-11-03,BC,Vancouver Island,Central Vancouver Island,1,1.0,2020,11,03,Tuesday
+2020-11-03,BC,Vancouver Island,North Vancouver Island,1,1.14,2020,11,03,Tuesday
+2020-11-03,BC,Vancouver Island,South Vancouver Island,2,1.14,2020,11,03,Tuesday
+2020-11-04,BC,Vancouver Coastal,Vancouver,113,74.71,2020,11,04,Wednesday
+2020-11-04,BC,Vancouver Island,Central Vancouver Island,2,1.14,2020,11,04,Wednesday
+2020-11-04,BC,Vancouver Island,North Vancouver Island,2,1.43,2020,11,04,Wednesday
+2020-11-04,BC,Vancouver Island,South Vancouver Island,4,1.57,2020,11,04,Wednesday
+2020-11-05,BC,Vancouver Coastal,Vancouver,88,76.71,2020,11,05,Thursday
+2020-11-05,BC,Vancouver Island,Central Vancouver Island,0,1.0,2020,11,05,Thursday
+2020-11-05,BC,Vancouver Island,North Vancouver Island,3,1.86,2020,11,05,Thursday
+2020-11-05,BC,Vancouver Island,South Vancouver Island,2,1.71,2020,11,05,Thursday
+2020-11-06,BC,Vancouver Coastal,Vancouver,96,81.0,2020,11,06,Friday
+2020-11-06,BC,Vancouver Island,Central Vancouver Island,0,0.71,2020,11,06,Friday
+2020-11-06,BC,Vancouver Island,North Vancouver Island,2,1.86,2020,11,06,Friday
+2020-11-06,BC,Vancouver Island,South Vancouver Island,0,1.57,2020,11,06,Friday
+2020-11-07,BC,Vancouver Coastal,Vancouver,69,81.0,2020,11,07,Saturday
+2020-11-07,BC,Vancouver Island,Central Vancouver Island,1,0.86,2020,11,07,Saturday
+2020-11-07,BC,Vancouver Island,North Vancouver Island,0,1.43,2020,11,07,Saturday
+2020-11-07,BC,Vancouver Island,South Vancouver Island,3,1.86,2020,11,07,Saturday
+2020-11-08,BC,Vancouver Coastal,Vancouver,55,81.14,2020,11,08,Sunday
+2020-11-08,BC,Vancouver Island,Central Vancouver Island,4,1.43,2020,11,08,Sunday
+2020-11-08,BC,Vancouver Island,North Vancouver Island,0,1.29,2020,11,08,Sunday
+2020-11-08,BC,Vancouver Island,South Vancouver Island,5,2.43,2020,11,08,Sunday
+2020-11-09,BC,Vancouver Coastal,Vancouver,69,81.57,2020,11,09,Monday
+2020-11-09,BC,Vancouver Island,Central Vancouver Island,4,1.71,2020,11,09,Monday
+2020-11-09,BC,Vancouver Island,North Vancouver Island,2,1.43,2020,11,09,Monday
+2020-11-09,BC,Vancouver Island,South Vancouver Island,2,2.57,2020,11,09,Monday
+2020-11-10,BC,Vancouver Coastal,Vancouver,78,81.14,2020,11,10,Tuesday
+2020-11-10,BC,Vancouver Island,Central Vancouver Island,5,2.29,2020,11,10,Tuesday
+2020-11-10,BC,Vancouver Island,North Vancouver Island,0,1.29,2020,11,10,Tuesday
+2020-11-10,BC,Vancouver Island,South Vancouver Island,5,3.0,2020,11,10,Tuesday
+2020-11-11,BC,Vancouver Coastal,Vancouver,105,80.0,2020,11,11,Wednesday
+2020-11-11,BC,Vancouver Island,Central Vancouver Island,3,2.43,2020,11,11,Wednesday
+2020-11-11,BC,Vancouver Island,North Vancouver Island,2,1.29,2020,11,11,Wednesday
+2020-11-11,BC,Vancouver Island,South Vancouver Island,2,2.71,2020,11,11,Wednesday
+2020-11-12,BC,Vancouver Coastal,Vancouver,64,76.57,2020,11,12,Thursday
+2020-11-12,BC,Vancouver Island,Central Vancouver Island,9,3.71,2020,11,12,Thursday
+2020-11-12,BC,Vancouver Island,North Vancouver Island,4,1.43,2020,11,12,Thursday
+2020-11-12,BC,Vancouver Island,South Vancouver Island,1,2.57,2020,11,12,Thursday
+2020-11-13,BC,Vancouver Coastal,Vancouver,101,77.29,2020,11,13,Friday
+2020-11-13,BC,Vancouver Island,Central Vancouver Island,6,4.57,2020,11,13,Friday
+2020-11-13,BC,Vancouver Island,North Vancouver Island,2,1.43,2020,11,13,Friday
+2020-11-13,BC,Vancouver Island,South Vancouver Island,2,2.86,2020,11,13,Friday
+2020-11-14,BC,Vancouver Coastal,Vancouver,119,84.43,2020,11,14,Saturday
+2020-11-14,BC,Vancouver Island,Central Vancouver Island,5,5.14,2020,11,14,Saturday
+2020-11-14,BC,Vancouver Island,North Vancouver Island,2,1.71,2020,11,14,Saturday
+2020-11-14,BC,Vancouver Island,South Vancouver Island,3,2.86,2020,11,14,Saturday
+2020-11-15,BC,Vancouver Coastal,Vancouver,75,87.29,2020,11,15,Sunday
+2020-11-15,BC,Vancouver Island,Central Vancouver Island,14,6.57,2020,11,15,Sunday
+2020-11-15,BC,Vancouver Island,North Vancouver Island,3,2.14,2020,11,15,Sunday
+2020-11-15,BC,Vancouver Island,South Vancouver Island,2,2.43,2020,11,15,Sunday
+2020-11-16,BC,Vancouver Coastal,Vancouver,119,94.43,2020,11,16,Monday
+2020-11-16,BC,Vancouver Island,Central Vancouver Island,12,7.71,2020,11,16,Monday
+2020-11-16,BC,Vancouver Island,North Vancouver Island,1,2.0,2020,11,16,Monday
+2020-11-16,BC,Vancouver Island,South Vancouver Island,4,2.71,2020,11,16,Monday
+2020-11-17,BC,Vancouver Coastal,Vancouver,116,99.86,2020,11,17,Tuesday
+2020-11-17,BC,Vancouver Island,Central Vancouver Island,15,9.14,2020,11,17,Tuesday
+2020-11-17,BC,Vancouver Island,North Vancouver Island,1,2.14,2020,11,17,Tuesday
+2020-11-17,BC,Vancouver Island,South Vancouver Island,4,2.57,2020,11,17,Tuesday
+2020-11-18,BC,Vancouver Coastal,Vancouver,147,105.86,2020,11,18,Wednesday
+2020-11-18,BC,Vancouver Island,Central Vancouver Island,9,10.0,2020,11,18,Wednesday
+2020-11-18,BC,Vancouver Island,North Vancouver Island,1,2.0,2020,11,18,Wednesday
+2020-11-18,BC,Vancouver Island,South Vancouver Island,3,2.71,2020,11,18,Wednesday
+2020-11-19,BC,Vancouver Coastal,Vancouver,95,110.29,2020,11,19,Thursday
+2020-11-19,BC,Vancouver Island,Central Vancouver Island,12,10.43,2020,11,19,Thursday
+2020-11-19,BC,Vancouver Island,North Vancouver Island,1,1.57,2020,11,19,Thursday
+2020-11-19,BC,Vancouver Island,South Vancouver Island,4,3.14,2020,11,19,Thursday
+2020-11-20,BC,Vancouver Coastal,Vancouver,139,115.71,2020,11,20,Friday
+2020-11-20,BC,Vancouver Island,Central Vancouver Island,11,11.14,2020,11,20,Friday
+2020-11-20,BC,Vancouver Island,North Vancouver Island,2,1.57,2020,11,20,Friday
+2020-11-20,BC,Vancouver Island,South Vancouver Island,3,3.29,2020,11,20,Friday
+2020-11-21,BC,Vancouver Coastal,Vancouver,66,108.14,2020,11,21,Saturday
+2020-11-21,BC,Vancouver Island,Central Vancouver Island,6,11.29,2020,11,21,Saturday
+2020-11-21,BC,Vancouver Island,North Vancouver Island,1,1.43,2020,11,21,Saturday
+2020-11-21,BC,Vancouver Island,South Vancouver Island,10,4.29,2020,11,21,Saturday
+2020-11-22,BC,Vancouver Coastal,Vancouver,108,112.86,2020,11,22,Sunday
+2020-11-22,BC,Vancouver Island,Central Vancouver Island,11,10.86,2020,11,22,Sunday
+2020-11-22,BC,Vancouver Island,North Vancouver Island,2,1.29,2020,11,22,Sunday
+2020-11-22,BC,Vancouver Island,South Vancouver Island,1,4.14,2020,11,22,Sunday
+2020-11-23,BC,Vancouver Coastal,Vancouver,108,111.29,2020,11,23,Monday
+2020-11-23,BC,Vancouver Island,Central Vancouver Island,6,10.0,2020,11,23,Monday
+2020-11-23,BC,Vancouver Island,North Vancouver Island,1,1.29,2020,11,23,Monday
+2020-11-23,BC,Vancouver Island,South Vancouver Island,6,4.43,2020,11,23,Monday
+2020-11-24,BC,Vancouver Coastal,Vancouver,104,109.57,2020,11,24,Tuesday
+2020-11-24,BC,Vancouver Island,Central Vancouver Island,15,10.0,2020,11,24,Tuesday
+2020-11-24,BC,Vancouver Island,North Vancouver Island,3,1.57,2020,11,24,Tuesday
+2020-11-24,BC,Vancouver Island,South Vancouver Island,6,4.71,2020,11,24,Tuesday
+2020-11-25,BC,Vancouver Coastal,Vancouver,108,104.0,2020,11,25,Wednesday
+2020-11-25,BC,Vancouver Island,Central Vancouver Island,12,10.43,2020,11,25,Wednesday
+2020-11-25,BC,Vancouver Island,North Vancouver Island,7,2.43,2020,11,25,Wednesday
+2020-11-25,BC,Vancouver Island,South Vancouver Island,4,4.86,2020,11,25,Wednesday
+2020-11-26,BC,Vancouver Coastal,Vancouver,118,107.29,2020,11,26,Thursday
+2020-11-26,BC,Vancouver Island,Central Vancouver Island,6,9.57,2020,11,26,Thursday
+2020-11-26,BC,Vancouver Island,North Vancouver Island,6,3.14,2020,11,26,Thursday
+2020-11-26,BC,Vancouver Island,South Vancouver Island,4,4.86,2020,11,26,Thursday
+2020-11-27,BC,Vancouver Coastal,Vancouver,93,100.71,2020,11,27,Friday
+2020-11-27,BC,Vancouver Island,Central Vancouver Island,10,9.43,2020,11,27,Friday
+2020-11-27,BC,Vancouver Island,North Vancouver Island,6,3.71,2020,11,27,Friday
+2020-11-27,BC,Vancouver Island,South Vancouver Island,6,5.29,2020,11,27,Friday
+2020-11-28,BC,Vancouver Coastal,Vancouver,89,104.0,2020,11,28,Saturday
+2020-11-28,BC,Vancouver Island,Central Vancouver Island,19,11.29,2020,11,28,Saturday
+2020-11-28,BC,Vancouver Island,North Vancouver Island,2,3.86,2020,11,28,Saturday
+2020-11-28,BC,Vancouver Island,South Vancouver Island,7,4.86,2020,11,28,Saturday
+2020-11-29,BC,Vancouver Coastal,Vancouver,90,101.43,2020,11,29,Sunday
+2020-11-29,BC,Vancouver Island,Central Vancouver Island,3,10.14,2020,11,29,Sunday
+2020-11-29,BC,Vancouver Island,North Vancouver Island,6,4.43,2020,11,29,Sunday
+2020-11-29,BC,Vancouver Island,South Vancouver Island,7,5.71,2020,11,29,Sunday
+2020-11-30,BC,Vancouver Coastal,Vancouver,71,96.14,2020,11,30,Monday
+2020-11-30,BC,Vancouver Island,Central Vancouver Island,6,10.14,2020,11,30,Monday
+2020-11-30,BC,Vancouver Island,North Vancouver Island,2,4.57,2020,11,30,Monday
+2020-11-30,BC,Vancouver Island,South Vancouver Island,2,5.14,2020,11,30,Monday
+2020-12-01,BC,Vancouver Coastal,Vancouver,81,92.86,2020,12,01,Tuesday
+2020-12-01,BC,Vancouver Island,Central Vancouver Island,7,9.0,2020,12,01,Tuesday
+2020-12-01,BC,Vancouver Island,North Vancouver Island,2,4.43,2020,12,01,Tuesday
+2020-12-01,BC,Vancouver Island,South Vancouver Island,7,5.29,2020,12,01,Tuesday
+2020-12-02,BC,Vancouver Coastal,Vancouver,107,92.71,2020,12,02,Wednesday
+2020-12-02,BC,Vancouver Island,Central Vancouver Island,2,7.57,2020,12,02,Wednesday
+2020-12-02,BC,Vancouver Island,North Vancouver Island,0,3.43,2020,12,02,Wednesday
+2020-12-02,BC,Vancouver Island,South Vancouver Island,5,5.43,2020,12,02,Wednesday
+2020-12-03,BC,Vancouver Coastal,Vancouver,78,87.0,2020,12,03,Thursday
+2020-12-03,BC,Vancouver Island,Central Vancouver Island,5,7.43,2020,12,03,Thursday
+2020-12-03,BC,Vancouver Island,North Vancouver Island,1,2.71,2020,12,03,Thursday
+2020-12-03,BC,Vancouver Island,South Vancouver Island,8,6.0,2020,12,03,Thursday
+2020-12-04,BC,Vancouver Coastal,Vancouver,82,85.43,2020,12,04,Friday
+2020-12-04,BC,Vancouver Island,Central Vancouver Island,1,6.14,2020,12,04,Friday
+2020-12-04,BC,Vancouver Island,North Vancouver Island,7,2.86,2020,12,04,Friday
+2020-12-04,BC,Vancouver Island,South Vancouver Island,5,5.86,2020,12,04,Friday
+2020-12-05,BC,Vancouver Coastal,Vancouver,85,84.86,2020,12,05,Saturday
+2020-12-05,BC,Vancouver Island,Central Vancouver Island,4,4.0,2020,12,05,Saturday
+2020-12-05,BC,Vancouver Island,North Vancouver Island,3,3.0,2020,12,05,Saturday
+2020-12-05,BC,Vancouver Island,South Vancouver Island,2,5.14,2020,12,05,Saturday
+2020-12-06,BC,Vancouver Coastal,Vancouver,67,81.57,2020,12,06,Sunday
+2020-12-06,BC,Vancouver Island,Central Vancouver Island,8,4.71,2020,12,06,Sunday
+2020-12-06,BC,Vancouver Island,North Vancouver Island,1,2.29,2020,12,06,Sunday
+2020-12-06,BC,Vancouver Island,South Vancouver Island,4,4.71,2020,12,06,Sunday
+2020-12-07,BC,Vancouver Coastal,Vancouver,76,82.29,2020,12,07,Monday
+2020-12-07,BC,Vancouver Island,Central Vancouver Island,9,5.14,2020,12,07,Monday
+2020-12-07,BC,Vancouver Island,North Vancouver Island,2,2.29,2020,12,07,Monday
+2020-12-07,BC,Vancouver Island,South Vancouver Island,6,5.29,2020,12,07,Monday
+2020-12-08,BC,Vancouver Coastal,Vancouver,96,84.43,2020,12,08,Tuesday
+2020-12-08,BC,Vancouver Island,Central Vancouver Island,3,4.57,2020,12,08,Tuesday
+2020-12-08,BC,Vancouver Island,North Vancouver Island,1,2.14,2020,12,08,Tuesday
+2020-12-08,BC,Vancouver Island,South Vancouver Island,3,4.71,2020,12,08,Tuesday
+2020-12-09,BC,Vancouver Coastal,Vancouver,105,84.14,2020,12,09,Wednesday
+2020-12-09,BC,Vancouver Island,Central Vancouver Island,7,5.29,2020,12,09,Wednesday
+2020-12-09,BC,Vancouver Island,North Vancouver Island,1,2.29,2020,12,09,Wednesday
+2020-12-09,BC,Vancouver Island,South Vancouver Island,1,4.14,2020,12,09,Wednesday
+2020-12-10,BC,Vancouver Coastal,Vancouver,83,84.86,2020,12,10,Thursday
+2020-12-10,BC,Vancouver Island,Central Vancouver Island,5,5.29,2020,12,10,Thursday
+2020-12-10,BC,Vancouver Island,North Vancouver Island,0,2.14,2020,12,10,Thursday
+2020-12-10,BC,Vancouver Island,South Vancouver Island,1,3.14,2020,12,10,Thursday
+2020-12-11,BC,Vancouver Coastal,Vancouver,79,84.43,2020,12,11,Friday
+2020-12-11,BC,Vancouver Island,Central Vancouver Island,5,5.86,2020,12,11,Friday
+2020-12-11,BC,Vancouver Island,North Vancouver Island,4,1.71,2020,12,11,Friday
+2020-12-11,BC,Vancouver Island,South Vancouver Island,1,2.57,2020,12,11,Friday
+2020-12-12,BC,Vancouver Coastal,Vancouver,72,82.57,2020,12,12,Saturday
+2020-12-12,BC,Vancouver Island,Central Vancouver Island,1,5.43,2020,12,12,Saturday
+2020-12-12,BC,Vancouver Island,North Vancouver Island,0,1.29,2020,12,12,Saturday
+2020-12-12,BC,Vancouver Island,South Vancouver Island,2,2.57,2020,12,12,Saturday
+2020-12-13,BC,Vancouver Coastal,Vancouver,66,82.43,2020,12,13,Sunday
+2020-12-13,BC,Vancouver Island,Central Vancouver Island,7,5.29,2020,12,13,Sunday
+2020-12-13,BC,Vancouver Island,North Vancouver Island,3,1.57,2020,12,13,Sunday
+2020-12-13,BC,Vancouver Island,South Vancouver Island,6,2.86,2020,12,13,Sunday
+2020-12-14,BC,Vancouver Coastal,Vancouver,62,80.43,2020,12,14,Monday
+2020-12-14,BC,Vancouver Island,Central Vancouver Island,4,4.57,2020,12,14,Monday
+2020-12-14,BC,Vancouver Island,North Vancouver Island,2,1.57,2020,12,14,Monday
+2020-12-14,BC,Vancouver Island,South Vancouver Island,2,2.29,2020,12,14,Monday
+2020-12-15,BC,Vancouver Coastal,Vancouver,74,77.29,2020,12,15,Tuesday
+2020-12-15,BC,Vancouver Island,Central Vancouver Island,2,4.43,2020,12,15,Tuesday
+2020-12-15,BC,Vancouver Island,North Vancouver Island,1,1.57,2020,12,15,Tuesday
+2020-12-15,BC,Vancouver Island,South Vancouver Island,3,2.29,2020,12,15,Tuesday
+2020-12-16,BC,Vancouver Coastal,Vancouver,87,74.71,2020,12,16,Wednesday
+2020-12-16,BC,Vancouver Island,Central Vancouver Island,1,3.57,2020,12,16,Wednesday
+2020-12-16,BC,Vancouver Island,North Vancouver Island,0,1.43,2020,12,16,Wednesday
+2020-12-16,BC,Vancouver Island,South Vancouver Island,0,2.14,2020,12,16,Wednesday
+2020-12-17,BC,Vancouver Coastal,Vancouver,80,74.29,2020,12,17,Thursday
+2020-12-17,BC,Vancouver Island,Central Vancouver Island,0,2.86,2020,12,17,Thursday
+2020-12-17,BC,Vancouver Island,North Vancouver Island,1,1.57,2020,12,17,Thursday
+2020-12-17,BC,Vancouver Island,South Vancouver Island,7,3.0,2020,12,17,Thursday
+2020-12-18,BC,Vancouver Coastal,Vancouver,63,72.0,2020,12,18,Friday
+2020-12-18,BC,Vancouver Island,Central Vancouver Island,3,2.57,2020,12,18,Friday
+2020-12-18,BC,Vancouver Island,North Vancouver Island,1,1.14,2020,12,18,Friday
+2020-12-18,BC,Vancouver Island,South Vancouver Island,3,3.29,2020,12,18,Friday
+2020-12-19,BC,Vancouver Coastal,Vancouver,83,73.57,2020,12,19,Saturday
+2020-12-19,BC,Vancouver Island,Central Vancouver Island,3,2.86,2020,12,19,Saturday
+2020-12-19,BC,Vancouver Island,North Vancouver Island,1,1.29,2020,12,19,Saturday
+2020-12-19,BC,Vancouver Island,South Vancouver Island,1,3.14,2020,12,19,Saturday
+2020-12-20,BC,Vancouver Coastal,Vancouver,55,72.0,2020,12,20,Sunday
+2020-12-20,BC,Vancouver Island,Central Vancouver Island,6,2.71,2020,12,20,Sunday
+2020-12-20,BC,Vancouver Island,North Vancouver Island,1,1.0,2020,12,20,Sunday
+2020-12-20,BC,Vancouver Island,South Vancouver Island,5,3.0,2020,12,20,Sunday
+2020-12-21,BC,Vancouver Coastal,Vancouver,47,69.86,2020,12,21,Monday
+2020-12-21,BC,Vancouver Island,Central Vancouver Island,3,2.57,2020,12,21,Monday
+2020-12-21,BC,Vancouver Island,North Vancouver Island,1,0.86,2020,12,21,Monday
+2020-12-21,BC,Vancouver Island,South Vancouver Island,3,3.14,2020,12,21,Monday
+2020-12-22,BC,Vancouver Coastal,Vancouver,59,67.71,2020,12,22,Tuesday
+2020-12-22,BC,Vancouver Island,Central Vancouver Island,2,2.57,2020,12,22,Tuesday
+2020-12-22,BC,Vancouver Island,North Vancouver Island,5,1.43,2020,12,22,Tuesday
+2020-12-22,BC,Vancouver Island,South Vancouver Island,6,3.57,2020,12,22,Tuesday
+2020-12-23,BC,Vancouver Coastal,Vancouver,60,63.86,2020,12,23,Wednesday
+2020-12-23,BC,Vancouver Island,Central Vancouver Island,5,3.14,2020,12,23,Wednesday
+2020-12-23,BC,Vancouver Island,North Vancouver Island,0,1.43,2020,12,23,Wednesday
+2020-12-23,BC,Vancouver Island,South Vancouver Island,5,4.29,2020,12,23,Wednesday
+2020-12-24,BC,Vancouver Coastal,Vancouver,56,60.43,2020,12,24,Thursday
+2020-12-24,BC,Vancouver Island,Central Vancouver Island,2,3.43,2020,12,24,Thursday
+2020-12-24,BC,Vancouver Island,North Vancouver Island,3,1.71,2020,12,24,Thursday
+2020-12-24,BC,Vancouver Island,South Vancouver Island,4,3.86,2020,12,24,Thursday
+2020-12-25,BC,Vancouver Coastal,Vancouver,27,55.29,2020,12,25,Friday
+2020-12-25,BC,Vancouver Island,Central Vancouver Island,0,3.0,2020,12,25,Friday
+2020-12-25,BC,Vancouver Island,North Vancouver Island,1,1.71,2020,12,25,Friday
+2020-12-25,BC,Vancouver Island,South Vancouver Island,1,3.57,2020,12,25,Friday
+2020-12-26,BC,Vancouver Coastal,Vancouver,33,48.14,2020,12,26,Saturday
+2020-12-26,BC,Vancouver Island,Central Vancouver Island,1,2.71,2020,12,26,Saturday
+2020-12-26,BC,Vancouver Island,North Vancouver Island,0,1.57,2020,12,26,Saturday
+2020-12-26,BC,Vancouver Island,South Vancouver Island,3,3.86,2020,12,26,Saturday
+2020-12-27,BC,Vancouver Coastal,Vancouver,44,46.57,2020,12,27,Sunday
+2020-12-27,BC,Vancouver Island,Central Vancouver Island,1,2.0,2020,12,27,Sunday
+2020-12-27,BC,Vancouver Island,North Vancouver Island,4,2.0,2020,12,27,Sunday
+2020-12-27,BC,Vancouver Island,South Vancouver Island,6,4.0,2020,12,27,Sunday
+2020-12-28,BC,Vancouver Coastal,Vancouver,47,46.57,2020,12,28,Monday
+2020-12-28,BC,Vancouver Island,Central Vancouver Island,2,1.86,2020,12,28,Monday
+2020-12-28,BC,Vancouver Island,North Vancouver Island,1,2.0,2020,12,28,Monday
+2020-12-28,BC,Vancouver Island,South Vancouver Island,11,5.14,2020,12,28,Monday
+2020-12-29,BC,Vancouver Coastal,Vancouver,74,48.71,2020,12,29,Tuesday
+2020-12-29,BC,Vancouver Island,Central Vancouver Island,3,2.0,2020,12,29,Tuesday
+2020-12-29,BC,Vancouver Island,North Vancouver Island,7,2.29,2020,12,29,Tuesday
+2020-12-29,BC,Vancouver Island,South Vancouver Island,4,4.86,2020,12,29,Tuesday
+2020-12-30,BC,Vancouver Coastal,Vancouver,51,47.43,2020,12,30,Wednesday
+2020-12-30,BC,Vancouver Island,Central Vancouver Island,5,2.0,2020,12,30,Wednesday
+2020-12-30,BC,Vancouver Island,North Vancouver Island,3,2.71,2020,12,30,Wednesday
+2020-12-30,BC,Vancouver Island,South Vancouver Island,4,4.71,2020,12,30,Wednesday
+2020-12-31,BC,Vancouver Coastal,Vancouver,63,48.43,2020,12,31,Thursday
+2020-12-31,BC,Vancouver Island,Central Vancouver Island,5,2.43,2020,12,31,Thursday
+2020-12-31,BC,Vancouver Island,North Vancouver Island,1,2.43,2020,12,31,Thursday
+2020-12-31,BC,Vancouver Island,South Vancouver Island,11,5.71,2020,12,31,Thursday
+2021-01-01,BC,Vancouver Coastal,Vancouver,58,52.86,2021,01,01,Friday
+2021-01-01,BC,Vancouver Island,Central Vancouver Island,6,3.29,2021,01,01,Friday
+2021-01-01,BC,Vancouver Island,North Vancouver Island,5,3.0,2021,01,01,Friday
+2021-01-01,BC,Vancouver Island,South Vancouver Island,7,6.57,2021,01,01,Friday
+2021-01-02,BC,Vancouver Coastal,Vancouver,62,57.0,2021,01,02,Saturday
+2021-01-02,BC,Vancouver Island,Central Vancouver Island,4,3.71,2021,01,02,Saturday
+2021-01-02,BC,Vancouver Island,North Vancouver Island,5,3.71,2021,01,02,Saturday
+2021-01-02,BC,Vancouver Island,South Vancouver Island,4,6.71,2021,01,02,Saturday
+2021-01-03,BC,Vancouver Coastal,Vancouver,97,64.57,2021,01,03,Sunday
+2021-01-03,BC,Vancouver Island,Central Vancouver Island,8,4.71,2021,01,03,Sunday
+2021-01-03,BC,Vancouver Island,North Vancouver Island,5,3.86,2021,01,03,Sunday
+2021-01-03,BC,Vancouver Island,South Vancouver Island,3,6.29,2021,01,03,Sunday
+2021-01-04,BC,Vancouver Coastal,Vancouver,80,69.29,2021,01,04,Monday
+2021-01-04,BC,Vancouver Island,Central Vancouver Island,9,5.71,2021,01,04,Monday
+2021-01-04,BC,Vancouver Island,North Vancouver Island,1,3.86,2021,01,04,Monday
+2021-01-04,BC,Vancouver Island,South Vancouver Island,3,5.14,2021,01,04,Monday
+2021-01-05,BC,Vancouver Coastal,Vancouver,93,72.0,2021,01,05,Tuesday
+2021-01-05,BC,Vancouver Island,Central Vancouver Island,20,8.14,2021,01,05,Tuesday
+2021-01-05,BC,Vancouver Island,North Vancouver Island,5,3.57,2021,01,05,Tuesday
+2021-01-05,BC,Vancouver Island,South Vancouver Island,7,5.57,2021,01,05,Tuesday
+2021-01-06,BC,Vancouver Coastal,Vancouver,77,75.71,2021,01,06,Wednesday
+2021-01-06,BC,Vancouver Island,Central Vancouver Island,11,9.0,2021,01,06,Wednesday
+2021-01-06,BC,Vancouver Island,North Vancouver Island,1,3.29,2021,01,06,Wednesday
+2021-01-06,BC,Vancouver Island,South Vancouver Island,0,5.0,2021,01,06,Wednesday
+2021-01-07,BC,Vancouver Coastal,Vancouver,67,76.29,2021,01,07,Thursday
+2021-01-07,BC,Vancouver Island,Central Vancouver Island,23,11.57,2021,01,07,Thursday
+2021-01-07,BC,Vancouver Island,North Vancouver Island,4,3.71,2021,01,07,Thursday
+2021-01-07,BC,Vancouver Island,South Vancouver Island,2,3.71,2021,01,07,Thursday
+2021-01-08,BC,Vancouver Coastal,Vancouver,79,79.29,2021,01,08,Friday
+2021-01-08,BC,Vancouver Island,Central Vancouver Island,3,11.14,2021,01,08,Friday
+2021-01-08,BC,Vancouver Island,North Vancouver Island,1,3.14,2021,01,08,Friday
+2021-01-08,BC,Vancouver Island,South Vancouver Island,6,3.57,2021,01,08,Friday
+2021-01-09,BC,Vancouver Coastal,Vancouver,63,79.43,2021,01,09,Saturday
+2021-01-09,BC,Vancouver Island,Central Vancouver Island,18,13.14,2021,01,09,Saturday
+2021-01-09,BC,Vancouver Island,North Vancouver Island,7,3.43,2021,01,09,Saturday
+2021-01-09,BC,Vancouver Island,South Vancouver Island,5,3.71,2021,01,09,Saturday
+2021-01-10,BC,Vancouver Coastal,Vancouver,62,74.43,2021,01,10,Sunday
+2021-01-10,BC,Vancouver Island,Central Vancouver Island,14,14.0,2021,01,10,Sunday
+2021-01-10,BC,Vancouver Island,North Vancouver Island,3,3.14,2021,01,10,Sunday
+2021-01-10,BC,Vancouver Island,South Vancouver Island,1,3.43,2021,01,10,Sunday
+2021-01-11,BC,Vancouver Coastal,Vancouver,71,73.14,2021,01,11,Monday
+2021-01-11,BC,Vancouver Island,Central Vancouver Island,7,13.71,2021,01,11,Monday
+2021-01-11,BC,Vancouver Island,North Vancouver Island,2,3.29,2021,01,11,Monday
+2021-01-11,BC,Vancouver Island,South Vancouver Island,4,3.57,2021,01,11,Monday
+2021-01-12,BC,Vancouver Coastal,Vancouver,76,70.71,2021,01,12,Tuesday
+2021-01-12,BC,Vancouver Island,Central Vancouver Island,24,14.29,2021,01,12,Tuesday
+2021-01-12,BC,Vancouver Island,North Vancouver Island,1,2.71,2021,01,12,Tuesday
+2021-01-12,BC,Vancouver Island,South Vancouver Island,8,3.71,2021,01,12,Tuesday
+2021-01-13,BC,Vancouver Coastal,Vancouver,58,68.0,2021,01,13,Wednesday
+2021-01-13,BC,Vancouver Island,Central Vancouver Island,14,14.71,2021,01,13,Wednesday
+2021-01-13,BC,Vancouver Island,North Vancouver Island,0,2.57,2021,01,13,Wednesday
+2021-01-13,BC,Vancouver Island,South Vancouver Island,3,4.14,2021,01,13,Wednesday
+2021-01-14,BC,Vancouver Coastal,Vancouver,61,67.14,2021,01,14,Thursday
+2021-01-14,BC,Vancouver Island,Central Vancouver Island,9,12.71,2021,01,14,Thursday
+2021-01-14,BC,Vancouver Island,North Vancouver Island,1,2.14,2021,01,14,Thursday
+2021-01-14,BC,Vancouver Island,South Vancouver Island,3,4.29,2021,01,14,Thursday
+2021-01-15,BC,Vancouver Coastal,Vancouver,74,66.43,2021,01,15,Friday
+2021-01-15,BC,Vancouver Island,Central Vancouver Island,28,16.29,2021,01,15,Friday
+2021-01-15,BC,Vancouver Island,North Vancouver Island,2,2.29,2021,01,15,Friday
+2021-01-15,BC,Vancouver Island,South Vancouver Island,4,4.0,2021,01,15,Friday
+2021-01-16,BC,Vancouver Coastal,Vancouver,50,64.57,2021,01,16,Saturday
+2021-01-16,BC,Vancouver Island,Central Vancouver Island,12,15.43,2021,01,16,Saturday
+2021-01-16,BC,Vancouver Island,North Vancouver Island,3,1.71,2021,01,16,Saturday
+2021-01-16,BC,Vancouver Island,South Vancouver Island,2,3.57,2021,01,16,Saturday
+2021-01-17,BC,Vancouver Coastal,Vancouver,52,63.14,2021,01,17,Sunday
+2021-01-17,BC,Vancouver Island,Central Vancouver Island,9,14.71,2021,01,17,Sunday
+2021-01-17,BC,Vancouver Island,North Vancouver Island,5,2.0,2021,01,17,Sunday
+2021-01-17,BC,Vancouver Island,South Vancouver Island,3,3.86,2021,01,17,Sunday
+2021-01-18,BC,Vancouver Coastal,Vancouver,49,60.0,2021,01,18,Monday
+2021-01-18,BC,Vancouver Island,Central Vancouver Island,17,16.14,2021,01,18,Monday
+2021-01-18,BC,Vancouver Island,North Vancouver Island,3,2.14,2021,01,18,Monday
+2021-01-18,BC,Vancouver Island,South Vancouver Island,4,3.86,2021,01,18,Monday
+2021-01-19,BC,Vancouver Coastal,Vancouver,64,58.29,2021,01,19,Tuesday
+2021-01-19,BC,Vancouver Island,Central Vancouver Island,17,15.14,2021,01,19,Tuesday
+2021-01-19,BC,Vancouver Island,North Vancouver Island,4,2.57,2021,01,19,Tuesday
+2021-01-19,BC,Vancouver Island,South Vancouver Island,4,3.29,2021,01,19,Tuesday
+2021-01-20,BC,Vancouver Coastal,Vancouver,45,56.43,2021,01,20,Wednesday
+2021-01-20,BC,Vancouver Island,Central Vancouver Island,39,18.71,2021,01,20,Wednesday
+2021-01-20,BC,Vancouver Island,North Vancouver Island,5,3.29,2021,01,20,Wednesday
+2021-01-20,BC,Vancouver Island,South Vancouver Island,1,3.0,2021,01,20,Wednesday
+2021-01-21,BC,Vancouver Coastal,Vancouver,68,57.43,2021,01,21,Thursday
+2021-01-21,BC,Vancouver Island,Central Vancouver Island,13,19.29,2021,01,21,Thursday
+2021-01-21,BC,Vancouver Island,North Vancouver Island,0,3.14,2021,01,21,Thursday
+2021-01-21,BC,Vancouver Island,South Vancouver Island,0,2.57,2021,01,21,Thursday
+2021-01-22,BC,Vancouver Coastal,Vancouver,63,55.86,2021,01,22,Friday
+2021-01-22,BC,Vancouver Island,Central Vancouver Island,22,18.43,2021,01,22,Friday
+2021-01-22,BC,Vancouver Island,North Vancouver Island,4,3.43,2021,01,22,Friday
+2021-01-22,BC,Vancouver Island,South Vancouver Island,2,2.29,2021,01,22,Friday
+2021-01-23,BC,Vancouver Coastal,Vancouver,56,56.71,2021,01,23,Saturday
+2021-01-23,BC,Vancouver Island,Central Vancouver Island,20,19.57,2021,01,23,Saturday
+2021-01-23,BC,Vancouver Island,North Vancouver Island,0,3.0,2021,01,23,Saturday
+2021-01-23,BC,Vancouver Island,South Vancouver Island,3,2.43,2021,01,23,Saturday
+2021-01-24,BC,Vancouver Coastal,Vancouver,48,56.14,2021,01,24,Sunday
+2021-01-24,BC,Vancouver Island,Central Vancouver Island,16,20.57,2021,01,24,Sunday
+2021-01-24,BC,Vancouver Island,North Vancouver Island,0,2.29,2021,01,24,Sunday
+2021-01-24,BC,Vancouver Island,South Vancouver Island,3,2.43,2021,01,24,Sunday
+2021-01-25,BC,Vancouver Coastal,Vancouver,59,57.57,2021,01,25,Monday
+2021-01-25,BC,Vancouver Island,Central Vancouver Island,14,20.14,2021,01,25,Monday
+2021-01-25,BC,Vancouver Island,North Vancouver Island,0,1.86,2021,01,25,Monday
+2021-01-25,BC,Vancouver Island,South Vancouver Island,4,2.43,2021,01,25,Monday
+2021-01-26,BC,Vancouver Coastal,Vancouver,62,57.29,2021,01,26,Tuesday
+2021-01-26,BC,Vancouver Island,Central Vancouver Island,24,21.14,2021,01,26,Tuesday
+2021-01-26,BC,Vancouver Island,North Vancouver Island,2,1.57,2021,01,26,Tuesday
+2021-01-26,BC,Vancouver Island,South Vancouver Island,19,4.57,2021,01,26,Tuesday
+2021-01-27,BC,Vancouver Coastal,Vancouver,62,59.71,2021,01,27,Wednesday
+2021-01-27,BC,Vancouver Island,Central Vancouver Island,22,18.71,2021,01,27,Wednesday
+2021-01-27,BC,Vancouver Island,North Vancouver Island,2,1.14,2021,01,27,Wednesday
+2021-01-27,BC,Vancouver Island,South Vancouver Island,6,5.29,2021,01,27,Wednesday
+2021-01-28,BC,Vancouver Coastal,Vancouver,76,60.86,2021,01,28,Thursday
+2021-01-28,BC,Vancouver Island,Central Vancouver Island,20,19.71,2021,01,28,Thursday
+2021-01-28,BC,Vancouver Island,North Vancouver Island,0,1.14,2021,01,28,Thursday
+2021-01-28,BC,Vancouver Island,South Vancouver Island,10,6.71,2021,01,28,Thursday
+2021-01-29,BC,Vancouver Coastal,Vancouver,62,60.71,2021,01,29,Friday
+2021-01-29,BC,Vancouver Island,Central Vancouver Island,13,18.43,2021,01,29,Friday
+2021-01-29,BC,Vancouver Island,North Vancouver Island,2,0.86,2021,01,29,Friday
+2021-01-29,BC,Vancouver Island,South Vancouver Island,5,7.14,2021,01,29,Friday
+2021-01-30,BC,Vancouver Coastal,Vancouver,46,59.29,2021,01,30,Saturday
+2021-01-30,BC,Vancouver Island,Central Vancouver Island,26,19.29,2021,01,30,Saturday
+2021-01-30,BC,Vancouver Island,North Vancouver Island,0,0.86,2021,01,30,Saturday
+2021-01-30,BC,Vancouver Island,South Vancouver Island,5,7.43,2021,01,30,Saturday
+2021-01-31,BC,Vancouver Coastal,Vancouver,36,57.57,2021,01,31,Sunday
+2021-01-31,BC,Vancouver Island,Central Vancouver Island,25,20.57,2021,01,31,Sunday
+2021-01-31,BC,Vancouver Island,North Vancouver Island,1,1.0,2021,01,31,Sunday
+2021-01-31,BC,Vancouver Island,South Vancouver Island,3,7.43,2021,01,31,Sunday
+2021-02-01,BC,Vancouver Coastal,Vancouver,48,56.0,2021,02,01,Monday
+2021-02-01,BC,Vancouver Island,Central Vancouver Island,23,21.86,2021,02,01,Monday
+2021-02-01,BC,Vancouver Island,North Vancouver Island,1,1.14,2021,02,01,Monday
+2021-02-01,BC,Vancouver Island,South Vancouver Island,5,7.57,2021,02,01,Monday
+2021-02-02,BC,Vancouver Coastal,Vancouver,41,53.0,2021,02,02,Tuesday
+2021-02-02,BC,Vancouver Island,Central Vancouver Island,15,20.57,2021,02,02,Tuesday
+2021-02-02,BC,Vancouver Island,North Vancouver Island,0,0.86,2021,02,02,Tuesday
+2021-02-02,BC,Vancouver Island,South Vancouver Island,7,5.86,2021,02,02,Tuesday
+2021-02-03,BC,Vancouver Coastal,Vancouver,54,51.86,2021,02,03,Wednesday
+2021-02-03,BC,Vancouver Island,Central Vancouver Island,19,20.14,2021,02,03,Wednesday
+2021-02-03,BC,Vancouver Island,North Vancouver Island,3,1.0,2021,02,03,Wednesday
+2021-02-03,BC,Vancouver Island,South Vancouver Island,7,6.0,2021,02,03,Wednesday
+2021-02-04,BC,Vancouver Coastal,Vancouver,68,50.71,2021,02,04,Thursday
+2021-02-04,BC,Vancouver Island,Central Vancouver Island,20,20.14,2021,02,04,Thursday
+2021-02-04,BC,Vancouver Island,North Vancouver Island,1,1.14,2021,02,04,Thursday
+2021-02-04,BC,Vancouver Island,South Vancouver Island,7,5.57,2021,02,04,Thursday
+2021-02-05,BC,Vancouver Coastal,Vancouver,52,49.29,2021,02,05,Friday
+2021-02-05,BC,Vancouver Island,Central Vancouver Island,29,22.43,2021,02,05,Friday
+2021-02-05,BC,Vancouver Island,North Vancouver Island,0,0.86,2021,02,05,Friday
+2021-02-05,BC,Vancouver Island,South Vancouver Island,9,6.14,2021,02,05,Friday
+2021-02-06,BC,Vancouver Coastal,Vancouver,60,51.29,2021,02,06,Saturday
+2021-02-06,BC,Vancouver Island,Central Vancouver Island,10,20.14,2021,02,06,Saturday
+2021-02-06,BC,Vancouver Island,North Vancouver Island,1,1.0,2021,02,06,Saturday
+2021-02-06,BC,Vancouver Island,South Vancouver Island,12,7.14,2021,02,06,Saturday
+2021-02-07,BC,Vancouver Coastal,Vancouver,45,52.57,2021,02,07,Sunday
+2021-02-07,BC,Vancouver Island,Central Vancouver Island,20,19.43,2021,02,07,Sunday
+2021-02-07,BC,Vancouver Island,North Vancouver Island,0,0.86,2021,02,07,Sunday
+2021-02-07,BC,Vancouver Island,South Vancouver Island,5,7.43,2021,02,07,Sunday
+2021-02-08,BC,Vancouver Coastal,Vancouver,42,51.71,2021,02,08,Monday
+2021-02-08,BC,Vancouver Island,Central Vancouver Island,13,18.0,2021,02,08,Monday
+2021-02-08,BC,Vancouver Island,North Vancouver Island,3,1.14,2021,02,08,Monday
+2021-02-08,BC,Vancouver Island,South Vancouver Island,8,7.86,2021,02,08,Monday
+2021-02-09,BC,Vancouver Coastal,Vancouver,68,55.57,2021,02,09,Tuesday
+2021-02-09,BC,Vancouver Island,Central Vancouver Island,18,18.43,2021,02,09,Tuesday
+2021-02-09,BC,Vancouver Island,North Vancouver Island,1,1.29,2021,02,09,Tuesday
+2021-02-09,BC,Vancouver Island,South Vancouver Island,6,7.71,2021,02,09,Tuesday
+2021-02-10,BC,Vancouver Coastal,Vancouver,50,55.0,2021,02,10,Wednesday
+2021-02-10,BC,Vancouver Island,Central Vancouver Island,12,17.43,2021,02,10,Wednesday
+2021-02-10,BC,Vancouver Island,North Vancouver Island,0,0.86,2021,02,10,Wednesday
+2021-02-10,BC,Vancouver Island,South Vancouver Island,4,7.29,2021,02,10,Wednesday
+2021-02-11,BC,Vancouver Coastal,Vancouver,87,57.71,2021,02,11,Thursday
+2021-02-11,BC,Vancouver Island,Central Vancouver Island,9,15.86,2021,02,11,Thursday
+2021-02-11,BC,Vancouver Island,North Vancouver Island,0,0.71,2021,02,11,Thursday
+2021-02-11,BC,Vancouver Island,South Vancouver Island,6,7.14,2021,02,11,Thursday
+2021-02-12,BC,Vancouver Coastal,Vancouver,62,59.14,2021,02,12,Friday
+2021-02-12,BC,Vancouver Island,Central Vancouver Island,13,13.57,2021,02,12,Friday
+2021-02-12,BC,Vancouver Island,North Vancouver Island,0,0.71,2021,02,12,Friday
+2021-02-12,BC,Vancouver Island,South Vancouver Island,4,6.43,2021,02,12,Friday
+2021-02-13,BC,Vancouver Coastal,Vancouver,75,61.29,2021,02,13,Saturday
+2021-02-13,BC,Vancouver Island,Central Vancouver Island,9,13.43,2021,02,13,Saturday
+2021-02-13,BC,Vancouver Island,North Vancouver Island,2,0.86,2021,02,13,Saturday
+2021-02-13,BC,Vancouver Island,South Vancouver Island,4,5.29,2021,02,13,Saturday
+2021-02-14,BC,Vancouver Coastal,Vancouver,64,64.0,2021,02,14,Sunday
+2021-02-14,BC,Vancouver Island,Central Vancouver Island,3,11.0,2021,02,14,Sunday
+2021-02-14,BC,Vancouver Island,North Vancouver Island,1,1.0,2021,02,14,Sunday
+2021-02-14,BC,Vancouver Island,South Vancouver Island,9,5.86,2021,02,14,Sunday
+2021-02-15,BC,Vancouver Coastal,Vancouver,51,65.29,2021,02,15,Monday
+2021-02-15,BC,Vancouver Island,Central Vancouver Island,16,11.43,2021,02,15,Monday
+2021-02-15,BC,Vancouver Island,North Vancouver Island,2,0.86,2021,02,15,Monday
+2021-02-15,BC,Vancouver Island,South Vancouver Island,2,5.0,2021,02,15,Monday
+2021-02-16,BC,Vancouver Coastal,Vancouver,69,65.43,2021,02,16,Tuesday
+2021-02-16,BC,Vancouver Island,Central Vancouver Island,15,11.0,2021,02,16,Tuesday
+2021-02-16,BC,Vancouver Island,North Vancouver Island,3,1.14,2021,02,16,Tuesday
+2021-02-16,BC,Vancouver Island,South Vancouver Island,2,4.43,2021,02,16,Tuesday
+2021-02-17,BC,Vancouver Coastal,Vancouver,104,73.14,2021,02,17,Wednesday
+2021-02-17,BC,Vancouver Island,Central Vancouver Island,11,10.86,2021,02,17,Wednesday
+2021-02-17,BC,Vancouver Island,North Vancouver Island,3,1.57,2021,02,17,Wednesday
+2021-02-17,BC,Vancouver Island,South Vancouver Island,7,4.86,2021,02,17,Wednesday
+2021-02-18,BC,Vancouver Coastal,Vancouver,86,73.0,2021,02,18,Thursday
+2021-02-18,BC,Vancouver Island,Central Vancouver Island,8,10.71,2021,02,18,Thursday
+2021-02-18,BC,Vancouver Island,North Vancouver Island,9,2.86,2021,02,18,Thursday
+2021-02-18,BC,Vancouver Island,South Vancouver Island,2,4.29,2021,02,18,Thursday
+2021-02-19,BC,Vancouver Coastal,Vancouver,94,77.57,2021,02,19,Friday
+2021-02-19,BC,Vancouver Island,Central Vancouver Island,29,13.0,2021,02,19,Friday
+2021-02-19,BC,Vancouver Island,North Vancouver Island,9,4.14,2021,02,19,Friday
+2021-02-19,BC,Vancouver Island,South Vancouver Island,8,4.86,2021,02,19,Friday
+2021-02-20,BC,Vancouver Coastal,Vancouver,97,80.71,2021,02,20,Saturday
+2021-02-20,BC,Vancouver Island,Central Vancouver Island,20,14.57,2021,02,20,Saturday
+2021-02-20,BC,Vancouver Island,North Vancouver Island,9,5.14,2021,02,20,Saturday
+2021-02-20,BC,Vancouver Island,South Vancouver Island,1,4.43,2021,02,20,Saturday
+2021-02-21,BC,Vancouver Coastal,Vancouver,73,82.0,2021,02,21,Sunday
+2021-02-21,BC,Vancouver Island,Central Vancouver Island,17,16.57,2021,02,21,Sunday
+2021-02-21,BC,Vancouver Island,North Vancouver Island,4,5.57,2021,02,21,Sunday
+2021-02-21,BC,Vancouver Island,South Vancouver Island,4,3.71,2021,02,21,Sunday
+2021-02-22,BC,Vancouver Coastal,Vancouver,73,85.14,2021,02,22,Monday
+2021-02-22,BC,Vancouver Island,Central Vancouver Island,20,17.14,2021,02,22,Monday
+2021-02-22,BC,Vancouver Island,North Vancouver Island,11,6.86,2021,02,22,Monday
+2021-02-22,BC,Vancouver Island,South Vancouver Island,7,4.43,2021,02,22,Monday
+2021-02-23,BC,Vancouver Coastal,Vancouver,110,91.0,2021,02,23,Tuesday
+2021-02-23,BC,Vancouver Island,Central Vancouver Island,25,18.57,2021,02,23,Tuesday
+2021-02-23,BC,Vancouver Island,North Vancouver Island,7,7.43,2021,02,23,Tuesday
+2021-02-23,BC,Vancouver Island,South Vancouver Island,3,4.57,2021,02,23,Tuesday
+2021-02-24,BC,Vancouver Coastal,Vancouver,103,90.86,2021,02,24,Wednesday
+2021-02-24,BC,Vancouver Island,Central Vancouver Island,25,20.57,2021,02,24,Wednesday
+2021-02-24,BC,Vancouver Island,North Vancouver Island,9,8.29,2021,02,24,Wednesday
+2021-02-24,BC,Vancouver Island,South Vancouver Island,9,4.86,2021,02,24,Wednesday
+2021-02-25,BC,Vancouver Coastal,Vancouver,95,92.14,2021,02,25,Thursday
+2021-02-25,BC,Vancouver Island,Central Vancouver Island,20,22.29,2021,02,25,Thursday
+2021-02-25,BC,Vancouver Island,North Vancouver Island,11,8.57,2021,02,25,Thursday
+2021-02-25,BC,Vancouver Island,South Vancouver Island,0,4.57,2021,02,25,Thursday
+2021-02-26,BC,Vancouver Coastal,Vancouver,59,87.14,2021,02,26,Friday
+2021-02-26,BC,Vancouver Island,Central Vancouver Island,25,21.71,2021,02,26,Friday
+2021-02-26,BC,Vancouver Island,North Vancouver Island,5,8.0,2021,02,26,Friday
+2021-02-26,BC,Vancouver Island,South Vancouver Island,7,4.43,2021,02,26,Friday
+2021-02-27,BC,Vancouver Coastal,Vancouver,63,82.29,2021,02,27,Saturday
+2021-02-27,BC,Vancouver Island,Central Vancouver Island,15,21.0,2021,02,27,Saturday
+2021-02-27,BC,Vancouver Island,North Vancouver Island,11,8.29,2021,02,27,Saturday
+2021-02-27,BC,Vancouver Island,South Vancouver Island,1,4.43,2021,02,27,Saturday
+2021-02-28,BC,Vancouver Coastal,Vancouver,87,84.29,2021,02,28,Sunday
+2021-02-28,BC,Vancouver Island,Central Vancouver Island,13,20.43,2021,02,28,Sunday
+2021-02-28,BC,Vancouver Island,North Vancouver Island,6,8.57,2021,02,28,Sunday
+2021-02-28,BC,Vancouver Island,South Vancouver Island,5,4.57,2021,02,28,Sunday
+2021-03-01,BC,Vancouver Coastal,Vancouver,104,88.71,2021,03,01,Monday
+2021-03-01,BC,Vancouver Island,Central Vancouver Island,8,18.71,2021,03,01,Monday
+2021-03-01,BC,Vancouver Island,North Vancouver Island,8,8.14,2021,03,01,Monday
+2021-03-01,BC,Vancouver Island,South Vancouver Island,7,4.57,2021,03,01,Monday
+2021-03-02,BC,Vancouver Coastal,Vancouver,94,86.43,2021,03,02,Tuesday
+2021-03-02,BC,Vancouver Island,Central Vancouver Island,17,17.57,2021,03,02,Tuesday
+2021-03-02,BC,Vancouver Island,North Vancouver Island,6,8.0,2021,03,02,Tuesday
+2021-03-02,BC,Vancouver Island,South Vancouver Island,5,4.86,2021,03,02,Tuesday
+2021-03-03,BC,Vancouver Coastal,Vancouver,106,86.86,2021,03,03,Wednesday
+2021-03-03,BC,Vancouver Island,Central Vancouver Island,15,16.14,2021,03,03,Wednesday
+2021-03-03,BC,Vancouver Island,North Vancouver Island,5,7.43,2021,03,03,Wednesday
+2021-03-03,BC,Vancouver Island,South Vancouver Island,16,5.86,2021,03,03,Wednesday
+2021-03-04,BC,Vancouver Coastal,Vancouver,106,88.43,2021,03,04,Thursday
+2021-03-04,BC,Vancouver Island,Central Vancouver Island,15,15.43,2021,03,04,Thursday
+2021-03-04,BC,Vancouver Island,North Vancouver Island,3,6.29,2021,03,04,Thursday
+2021-03-04,BC,Vancouver Island,South Vancouver Island,8,7.0,2021,03,04,Thursday
+2021-03-05,BC,Vancouver Coastal,Vancouver,107,95.29,2021,03,05,Friday
+2021-03-05,BC,Vancouver Island,Central Vancouver Island,19,14.57,2021,03,05,Friday
+2021-03-05,BC,Vancouver Island,North Vancouver Island,6,6.43,2021,03,05,Friday
+2021-03-05,BC,Vancouver Island,South Vancouver Island,3,6.43,2021,03,05,Friday
+2021-03-06,BC,Vancouver Coastal,Vancouver,100,100.57,2021,03,06,Saturday
+2021-03-06,BC,Vancouver Island,Central Vancouver Island,18,15.0,2021,03,06,Saturday
+2021-03-06,BC,Vancouver Island,North Vancouver Island,10,6.29,2021,03,06,Saturday
+2021-03-06,BC,Vancouver Island,South Vancouver Island,1,6.43,2021,03,06,Saturday
+2021-03-07,BC,Vancouver Coastal,Vancouver,69,98.0,2021,03,07,Sunday
+2021-03-07,BC,Vancouver Island,Central Vancouver Island,6,14.0,2021,03,07,Sunday
+2021-03-07,BC,Vancouver Island,North Vancouver Island,3,5.86,2021,03,07,Sunday
+2021-03-07,BC,Vancouver Island,South Vancouver Island,4,6.29,2021,03,07,Sunday
+2021-03-08,BC,Vancouver Coastal,Vancouver,90,96.0,2021,03,08,Monday
+2021-03-08,BC,Vancouver Island,Central Vancouver Island,4,13.43,2021,03,08,Monday
+2021-03-08,BC,Vancouver Island,North Vancouver Island,3,5.14,2021,03,08,Monday
+2021-03-08,BC,Vancouver Island,South Vancouver Island,1,5.43,2021,03,08,Monday
+2021-03-09,BC,Vancouver Coastal,Vancouver,88,95.14,2021,03,09,Tuesday
+2021-03-09,BC,Vancouver Island,Central Vancouver Island,10,12.43,2021,03,09,Tuesday
+2021-03-09,BC,Vancouver Island,North Vancouver Island,5,5.0,2021,03,09,Tuesday
+2021-03-09,BC,Vancouver Island,South Vancouver Island,4,5.29,2021,03,09,Tuesday
+2021-03-10,BC,Vancouver Coastal,Vancouver,88,92.57,2021,03,10,Wednesday
+2021-03-10,BC,Vancouver Island,Central Vancouver Island,17,12.71,2021,03,10,Wednesday
+2021-03-10,BC,Vancouver Island,North Vancouver Island,6,5.14,2021,03,10,Wednesday
+2021-03-10,BC,Vancouver Island,South Vancouver Island,19,5.71,2021,03,10,Wednesday
+2021-03-11,BC,Vancouver Coastal,Vancouver,104,92.29,2021,03,11,Thursday
+2021-03-11,BC,Vancouver Island,Central Vancouver Island,11,12.14,2021,03,11,Thursday
+2021-03-11,BC,Vancouver Island,North Vancouver Island,4,5.29,2021,03,11,Thursday
+2021-03-11,BC,Vancouver Island,South Vancouver Island,19,7.29,2021,03,11,Thursday
+2021-03-12,BC,Vancouver Coastal,Vancouver,94,90.43,2021,03,12,Friday
+2021-03-12,BC,Vancouver Island,Central Vancouver Island,25,13.0,2021,03,12,Friday
+2021-03-12,BC,Vancouver Island,North Vancouver Island,9,5.71,2021,03,12,Friday
+2021-03-12,BC,Vancouver Island,South Vancouver Island,4,7.43,2021,03,12,Friday
+2021-03-13,BC,Vancouver Coastal,Vancouver,78,87.29,2021,03,13,Saturday
+2021-03-13,BC,Vancouver Island,Central Vancouver Island,7,11.43,2021,03,13,Saturday
+2021-03-13,BC,Vancouver Island,North Vancouver Island,1,4.43,2021,03,13,Saturday
+2021-03-13,BC,Vancouver Island,South Vancouver Island,11,8.86,2021,03,13,Saturday
+2021-03-14,BC,Vancouver Coastal,Vancouver,76,88.29,2021,03,14,Sunday
+2021-03-14,BC,Vancouver Island,Central Vancouver Island,7,11.57,2021,03,14,Sunday
+2021-03-14,BC,Vancouver Island,North Vancouver Island,6,4.86,2021,03,14,Sunday
+2021-03-14,BC,Vancouver Island,South Vancouver Island,7,9.29,2021,03,14,Sunday
+2021-03-15,BC,Vancouver Coastal,Vancouver,97,89.29,2021,03,15,Monday
+2021-03-15,BC,Vancouver Island,Central Vancouver Island,15,13.14,2021,03,15,Monday
+2021-03-15,BC,Vancouver Island,North Vancouver Island,1,4.57,2021,03,15,Monday
+2021-03-15,BC,Vancouver Island,South Vancouver Island,7,10.14,2021,03,15,Monday
+2021-03-16,BC,Vancouver Coastal,Vancouver,73,87.14,2021,03,16,Tuesday
+2021-03-16,BC,Vancouver Island,Central Vancouver Island,7,12.71,2021,03,16,Tuesday
+2021-03-16,BC,Vancouver Island,North Vancouver Island,3,4.29,2021,03,16,Tuesday
+2021-03-16,BC,Vancouver Island,South Vancouver Island,3,10.0,2021,03,16,Tuesday
+2021-03-17,BC,Vancouver Coastal,Vancouver,97,88.43,2021,03,17,Wednesday
+2021-03-17,BC,Vancouver Island,Central Vancouver Island,16,12.57,2021,03,17,Wednesday
+2021-03-17,BC,Vancouver Island,North Vancouver Island,4,4.0,2021,03,17,Wednesday
+2021-03-17,BC,Vancouver Island,South Vancouver Island,13,9.14,2021,03,17,Wednesday
+2021-03-18,BC,Vancouver Coastal,Vancouver,111,89.43,2021,03,18,Thursday
+2021-03-18,BC,Vancouver Island,Central Vancouver Island,16,13.29,2021,03,18,Thursday
+2021-03-18,BC,Vancouver Island,North Vancouver Island,3,3.86,2021,03,18,Thursday
+2021-03-18,BC,Vancouver Island,South Vancouver Island,17,8.86,2021,03,18,Thursday
+2021-03-19,BC,Vancouver Coastal,Vancouver,101,90.43,2021,03,19,Friday
+2021-03-19,BC,Vancouver Island,Central Vancouver Island,12,11.43,2021,03,19,Friday
+2021-03-19,BC,Vancouver Island,North Vancouver Island,1,2.71,2021,03,19,Friday
+2021-03-19,BC,Vancouver Island,South Vancouver Island,16,10.57,2021,03,19,Friday
+2021-03-20,BC,Vancouver Coastal,Vancouver,69,89.14,2021,03,20,Saturday
+2021-03-20,BC,Vancouver Island,Central Vancouver Island,6,11.29,2021,03,20,Saturday
+2021-03-20,BC,Vancouver Island,North Vancouver Island,4,3.14,2021,03,20,Saturday
+2021-03-20,BC,Vancouver Island,South Vancouver Island,9,10.29,2021,03,20,Saturday
+2021-03-21,BC,Vancouver Coastal,Vancouver,102,92.86,2021,03,21,Sunday
+2021-03-21,BC,Vancouver Island,Central Vancouver Island,14,12.29,2021,03,21,Sunday
+2021-03-21,BC,Vancouver Island,North Vancouver Island,0,2.29,2021,03,21,Sunday
+2021-03-21,BC,Vancouver Island,South Vancouver Island,19,12.0,2021,03,21,Sunday
+2021-03-22,BC,Vancouver Coastal,Vancouver,111,94.86,2021,03,22,Monday
+2021-03-22,BC,Vancouver Island,Central Vancouver Island,10,11.57,2021,03,22,Monday
+2021-03-22,BC,Vancouver Island,North Vancouver Island,1,2.29,2021,03,22,Monday
+2021-03-22,BC,Vancouver Island,South Vancouver Island,8,12.14,2021,03,22,Monday
+2021-03-23,BC,Vancouver Coastal,Vancouver,152,106.14,2021,03,23,Tuesday
+2021-03-23,BC,Vancouver Island,Central Vancouver Island,17,13.0,2021,03,23,Tuesday
+2021-03-23,BC,Vancouver Island,North Vancouver Island,0,1.86,2021,03,23,Tuesday
+2021-03-23,BC,Vancouver Island,South Vancouver Island,9,13.0,2021,03,23,Tuesday
+2021-03-24,BC,Vancouver Coastal,Vancouver,179,117.86,2021,03,24,Wednesday
+2021-03-24,BC,Vancouver Island,Central Vancouver Island,20,13.57,2021,03,24,Wednesday
+2021-03-24,BC,Vancouver Island,North Vancouver Island,6,2.14,2021,03,24,Wednesday
+2021-03-24,BC,Vancouver Island,South Vancouver Island,14,13.14,2021,03,24,Wednesday
+2021-03-25,BC,Vancouver Coastal,Vancouver,166,125.71,2021,03,25,Thursday
+2021-03-25,BC,Vancouver Island,Central Vancouver Island,28,15.29,2021,03,25,Thursday
+2021-03-25,BC,Vancouver Island,North Vancouver Island,6,2.57,2021,03,25,Thursday
+2021-03-25,BC,Vancouver Island,South Vancouver Island,23,14.0,2021,03,25,Thursday
+2021-03-26,BC,Vancouver Coastal,Vancouver,169,135.43,2021,03,26,Friday
+2021-03-26,BC,Vancouver Island,Central Vancouver Island,25,17.14,2021,03,26,Friday
+2021-03-26,BC,Vancouver Island,North Vancouver Island,4,3.0,2021,03,26,Friday
+2021-03-26,BC,Vancouver Island,South Vancouver Island,33,16.43,2021,03,26,Friday
+2021-03-27,BC,Vancouver Coastal,Vancouver,145,146.29,2021,03,27,Saturday
+2021-03-27,BC,Vancouver Island,Central Vancouver Island,9,17.57,2021,03,27,Saturday
+2021-03-27,BC,Vancouver Island,North Vancouver Island,0,2.43,2021,03,27,Saturday
+2021-03-27,BC,Vancouver Island,South Vancouver Island,19,17.86,2021,03,27,Saturday
+2021-03-28,BC,Vancouver Coastal,Vancouver,121,149.0,2021,03,28,Sunday
+2021-03-28,BC,Vancouver Island,Central Vancouver Island,24,19.0,2021,03,28,Sunday
+2021-03-28,BC,Vancouver Island,North Vancouver Island,3,2.86,2021,03,28,Sunday
+2021-03-28,BC,Vancouver Island,South Vancouver Island,23,18.43,2021,03,28,Sunday
+2021-03-29,BC,Vancouver Coastal,Vancouver,152,154.86,2021,03,29,Monday
+2021-03-29,BC,Vancouver Island,Central Vancouver Island,16,19.86,2021,03,29,Monday
+2021-03-29,BC,Vancouver Island,North Vancouver Island,4,3.29,2021,03,29,Monday
+2021-03-29,BC,Vancouver Island,South Vancouver Island,25,20.86,2021,03,29,Monday
+2021-03-30,BC,Vancouver Coastal,Vancouver,182,159.14,2021,03,30,Tuesday
+2021-03-30,BC,Vancouver Island,Central Vancouver Island,20,20.29,2021,03,30,Tuesday
+2021-03-30,BC,Vancouver Island,North Vancouver Island,3,3.71,2021,03,30,Tuesday
+2021-03-30,BC,Vancouver Island,South Vancouver Island,30,23.86,2021,03,30,Tuesday
+2021-03-31,BC,Vancouver Coastal,Vancouver,200,162.14,2021,03,31,Wednesday
+2021-03-31,BC,Vancouver Island,Central Vancouver Island,24,20.86,2021,03,31,Wednesday
+2021-03-31,BC,Vancouver Island,North Vancouver Island,6,3.71,2021,03,31,Wednesday
+2021-03-31,BC,Vancouver Island,South Vancouver Island,27,25.71,2021,03,31,Wednesday
+2021-04-01,BC,Vancouver Coastal,Vancouver,192,165.86,2021,04,01,Thursday
+2021-04-01,BC,Vancouver Island,Central Vancouver Island,24,20.29,2021,04,01,Thursday
+2021-04-01,BC,Vancouver Island,North Vancouver Island,2,3.14,2021,04,01,Thursday
+2021-04-01,BC,Vancouver Island,South Vancouver Island,50,29.57,2021,04,01,Thursday
+2021-04-02,BC,Vancouver Coastal,Vancouver,214,172.29,2021,04,02,Friday
+2021-04-02,BC,Vancouver Island,Central Vancouver Island,26,20.43,2021,04,02,Friday
+2021-04-02,BC,Vancouver Island,North Vancouver Island,4,3.14,2021,04,02,Friday
+2021-04-02,BC,Vancouver Island,South Vancouver Island,38,30.29,2021,04,02,Friday
+2021-04-03,BC,Vancouver Coastal,Vancouver,163,174.86,2021,04,03,Saturday
+2021-04-03,BC,Vancouver Island,Central Vancouver Island,29,23.29,2021,04,03,Saturday
+2021-04-03,BC,Vancouver Island,North Vancouver Island,2,3.43,2021,04,03,Saturday
+2021-04-03,BC,Vancouver Island,South Vancouver Island,26,31.29,2021,04,03,Saturday
+2021-04-04,BC,Vancouver Coastal,Vancouver,162,180.71,2021,04,04,Sunday
+2021-04-04,BC,Vancouver Island,Central Vancouver Island,20,22.71,2021,04,04,Sunday
+2021-04-04,BC,Vancouver Island,North Vancouver Island,3,3.43,2021,04,04,Sunday
+2021-04-04,BC,Vancouver Island,South Vancouver Island,25,31.57,2021,04,04,Sunday
+2021-04-05,BC,Vancouver Coastal,Vancouver,176,184.14,2021,04,05,Monday
+2021-04-05,BC,Vancouver Island,Central Vancouver Island,20,23.29,2021,04,05,Monday
+2021-04-05,BC,Vancouver Island,North Vancouver Island,3,3.29,2021,04,05,Monday
+2021-04-05,BC,Vancouver Island,South Vancouver Island,29,32.14,2021,04,05,Monday
+2021-04-06,BC,Vancouver Coastal,Vancouver,191,185.43,2021,04,06,Tuesday
+2021-04-06,BC,Vancouver Island,Central Vancouver Island,26,24.14,2021,04,06,Tuesday
+2021-04-06,BC,Vancouver Island,North Vancouver Island,3,3.29,2021,04,06,Tuesday
+2021-04-06,BC,Vancouver Island,South Vancouver Island,36,33.0,2021,04,06,Tuesday
+2021-04-07,BC,Vancouver Coastal,Vancouver,266,194.86,2021,04,07,Wednesday
+2021-04-07,BC,Vancouver Island,Central Vancouver Island,28,24.71,2021,04,07,Wednesday
+2021-04-07,BC,Vancouver Island,North Vancouver Island,3,2.86,2021,04,07,Wednesday
+2021-04-07,BC,Vancouver Island,South Vancouver Island,35,34.14,2021,04,07,Wednesday
+2021-04-08,BC,Vancouver Coastal,Vancouver,207,197.0,2021,04,08,Thursday
+2021-04-08,BC,Vancouver Island,Central Vancouver Island,23,24.57,2021,04,08,Thursday
+2021-04-08,BC,Vancouver Island,North Vancouver Island,2,2.86,2021,04,08,Thursday
+2021-04-08,BC,Vancouver Island,South Vancouver Island,27,30.86,2021,04,08,Thursday
+2021-04-09,BC,Vancouver Coastal,Vancouver,178,191.86,2021,04,09,Friday
+2021-04-09,BC,Vancouver Island,Central Vancouver Island,32,25.43,2021,04,09,Friday
+2021-04-09,BC,Vancouver Island,North Vancouver Island,6,3.14,2021,04,09,Friday
+2021-04-09,BC,Vancouver Island,South Vancouver Island,42,31.43,2021,04,09,Friday
+2021-04-10,BC,Vancouver Coastal,Vancouver,132,187.43,2021,04,10,Saturday
+2021-04-10,BC,Vancouver Island,Central Vancouver Island,18,23.86,2021,04,10,Saturday
+2021-04-10,BC,Vancouver Island,North Vancouver Island,3,3.29,2021,04,10,Saturday
+2021-04-10,BC,Vancouver Island,South Vancouver Island,25,31.29,2021,04,10,Saturday
+2021-04-11,BC,Vancouver Coastal,Vancouver,129,182.71,2021,04,11,Sunday
+2021-04-11,BC,Vancouver Island,Central Vancouver Island,13,22.86,2021,04,11,Sunday
+2021-04-11,BC,Vancouver Island,North Vancouver Island,1,3.0,2021,04,11,Sunday
+2021-04-11,BC,Vancouver Island,South Vancouver Island,38,33.14,2021,04,11,Sunday
+2021-04-12,BC,Vancouver Coastal,Vancouver,154,179.57,2021,04,12,Monday
+2021-04-12,BC,Vancouver Island,Central Vancouver Island,18,22.57,2021,04,12,Monday
+2021-04-12,BC,Vancouver Island,North Vancouver Island,4,3.14,2021,04,12,Monday
+2021-04-12,BC,Vancouver Island,South Vancouver Island,20,31.86,2021,04,12,Monday
+2021-04-13,BC,Vancouver Coastal,Vancouver,165,175.86,2021,04,13,Tuesday
+2021-04-13,BC,Vancouver Island,Central Vancouver Island,18,21.43,2021,04,13,Tuesday
+2021-04-13,BC,Vancouver Island,North Vancouver Island,10,4.14,2021,04,13,Tuesday
+2021-04-13,BC,Vancouver Island,South Vancouver Island,25,30.29,2021,04,13,Tuesday
+2021-04-14,BC,Vancouver Coastal,Vancouver,189,164.86,2021,04,14,Wednesday
+2021-04-14,BC,Vancouver Island,Central Vancouver Island,9,18.71,2021,04,14,Wednesday
+2021-04-14,BC,Vancouver Island,North Vancouver Island,3,4.14,2021,04,14,Wednesday
+2021-04-14,BC,Vancouver Island,South Vancouver Island,31,29.71,2021,04,14,Wednesday
+2021-04-15,BC,Vancouver Coastal,Vancouver,132,154.14,2021,04,15,Thursday
+2021-04-15,BC,Vancouver Island,Central Vancouver Island,16,17.71,2021,04,15,Thursday
+2021-04-15,BC,Vancouver Island,North Vancouver Island,7,4.86,2021,04,15,Thursday
+2021-04-15,BC,Vancouver Island,South Vancouver Island,22,29.0,2021,04,15,Thursday
+2021-04-16,BC,Vancouver Coastal,Vancouver,162,151.86,2021,04,16,Friday
+2021-04-16,BC,Vancouver Island,Central Vancouver Island,7,14.14,2021,04,16,Friday
+2021-04-16,BC,Vancouver Island,North Vancouver Island,9,5.29,2021,04,16,Friday
+2021-04-16,BC,Vancouver Island,South Vancouver Island,13,24.86,2021,04,16,Friday
+2021-04-17,BC,Vancouver Coastal,Vancouver,132,151.86,2021,04,17,Saturday
+2021-04-17,BC,Vancouver Island,Central Vancouver Island,10,13.0,2021,04,17,Saturday
+2021-04-17,BC,Vancouver Island,North Vancouver Island,2,5.14,2021,04,17,Saturday
+2021-04-17,BC,Vancouver Island,South Vancouver Island,30,25.57,2021,04,17,Saturday
+2021-04-18,BC,Vancouver Coastal,Vancouver,141,153.57,2021,04,18,Sunday
+2021-04-18,BC,Vancouver Island,Central Vancouver Island,6,12.0,2021,04,18,Sunday
+2021-04-18,BC,Vancouver Island,North Vancouver Island,7,6.0,2021,04,18,Sunday
+2021-04-18,BC,Vancouver Island,South Vancouver Island,23,23.43,2021,04,18,Sunday
+2021-04-19,BC,Vancouver Coastal,Vancouver,161,154.57,2021,04,19,Monday
+2021-04-19,BC,Vancouver Island,Central Vancouver Island,13,11.29,2021,04,19,Monday
+2021-04-19,BC,Vancouver Island,North Vancouver Island,4,6.0,2021,04,19,Monday
+2021-04-19,BC,Vancouver Island,South Vancouver Island,11,22.14,2021,04,19,Monday
+2021-04-20,BC,Vancouver Coastal,Vancouver,110,146.71,2021,04,20,Tuesday
+2021-04-20,BC,Vancouver Island,Central Vancouver Island,9,10.0,2021,04,20,Tuesday
+2021-04-20,BC,Vancouver Island,North Vancouver Island,2,4.86,2021,04,20,Tuesday
+2021-04-20,BC,Vancouver Island,South Vancouver Island,15,20.71,2021,04,20,Tuesday
+2021-04-21,BC,Vancouver Coastal,Vancouver,145,140.43,2021,04,21,Wednesday
+2021-04-21,BC,Vancouver Island,Central Vancouver Island,10,10.14,2021,04,21,Wednesday
+2021-04-21,BC,Vancouver Island,North Vancouver Island,1,4.57,2021,04,21,Wednesday
+2021-04-21,BC,Vancouver Island,South Vancouver Island,30,20.57,2021,04,21,Wednesday
+2021-04-22,BC,Vancouver Coastal,Vancouver,149,142.86,2021,04,22,Thursday
+2021-04-22,BC,Vancouver Island,Central Vancouver Island,4,8.43,2021,04,22,Thursday
+2021-04-22,BC,Vancouver Island,North Vancouver Island,2,3.86,2021,04,22,Thursday
+2021-04-22,BC,Vancouver Island,South Vancouver Island,18,20.0,2021,04,22,Thursday
+2021-04-23,BC,Vancouver Coastal,Vancouver,108,135.14,2021,04,23,Friday
+2021-04-23,BC,Vancouver Island,Central Vancouver Island,16,9.71,2021,04,23,Friday
+2021-04-23,BC,Vancouver Island,North Vancouver Island,2,2.86,2021,04,23,Friday
+2021-04-23,BC,Vancouver Island,South Vancouver Island,19,20.86,2021,04,23,Friday
+2021-04-24,BC,Vancouver Coastal,Vancouver,75,127.0,2021,04,24,Saturday
+2021-04-24,BC,Vancouver Island,Central Vancouver Island,10,9.71,2021,04,24,Saturday
+2021-04-24,BC,Vancouver Island,North Vancouver Island,4,3.14,2021,04,24,Saturday
+2021-04-24,BC,Vancouver Island,South Vancouver Island,17,19.0,2021,04,24,Saturday
+2021-04-25,BC,Vancouver Coastal,Vancouver,97,120.71,2021,04,25,Sunday
+2021-04-25,BC,Vancouver Island,Central Vancouver Island,3,9.29,2021,04,25,Sunday
+2021-04-25,BC,Vancouver Island,North Vancouver Island,2,2.43,2021,04,25,Sunday
+2021-04-25,BC,Vancouver Island,South Vancouver Island,12,17.43,2021,04,25,Sunday
+2021-04-26,BC,Vancouver Coastal,Vancouver,99,111.86,2021,04,26,Monday
+2021-04-26,BC,Vancouver Island,Central Vancouver Island,10,8.86,2021,04,26,Monday
+2021-04-26,BC,Vancouver Island,North Vancouver Island,1,2.0,2021,04,26,Monday
+2021-04-26,BC,Vancouver Island,South Vancouver Island,16,18.14,2021,04,26,Monday
+2021-04-27,BC,Vancouver Coastal,Vancouver,105,111.14,2021,04,27,Tuesday
+2021-04-27,BC,Vancouver Island,Central Vancouver Island,11,9.14,2021,04,27,Tuesday
+2021-04-27,BC,Vancouver Island,North Vancouver Island,2,2.0,2021,04,27,Tuesday
+2021-04-27,BC,Vancouver Island,South Vancouver Island,22,19.14,2021,04,27,Tuesday
+2021-04-28,BC,Vancouver Coastal,Vancouver,119,107.43,2021,04,28,Wednesday
+2021-04-28,BC,Vancouver Island,Central Vancouver Island,10,9.14,2021,04,28,Wednesday
+2021-04-28,BC,Vancouver Island,North Vancouver Island,4,2.43,2021,04,28,Wednesday
+2021-04-28,BC,Vancouver Island,South Vancouver Island,17,17.29,2021,04,28,Wednesday
+2021-04-29,BC,Vancouver Coastal,Vancouver,108,101.57,2021,04,29,Thursday
+2021-04-29,BC,Vancouver Island,Central Vancouver Island,18,11.14,2021,04,29,Thursday
+2021-04-29,BC,Vancouver Island,North Vancouver Island,2,2.43,2021,04,29,Thursday
+2021-04-29,BC,Vancouver Island,South Vancouver Island,11,16.29,2021,04,29,Thursday
+2021-04-30,BC,Vancouver Coastal,Vancouver,111,102.0,2021,04,30,Friday
+2021-04-30,BC,Vancouver Island,Central Vancouver Island,11,10.43,2021,04,30,Friday
+2021-04-30,BC,Vancouver Island,North Vancouver Island,3,2.57,2021,04,30,Friday
+2021-04-30,BC,Vancouver Island,South Vancouver Island,12,15.29,2021,04,30,Friday
+2021-05-01,BC,Vancouver Coastal,Vancouver,80,102.71,2021,05,01,Saturday
+2021-05-01,BC,Vancouver Island,Central Vancouver Island,6,9.86,2021,05,01,Saturday
+2021-05-01,BC,Vancouver Island,North Vancouver Island,5,2.71,2021,05,01,Saturday
+2021-05-01,BC,Vancouver Island,South Vancouver Island,10,14.29,2021,05,01,Saturday
+2021-05-02,BC,Vancouver Coastal,Vancouver,98,102.86,2021,05,02,Sunday
+2021-05-02,BC,Vancouver Island,Central Vancouver Island,5,10.14,2021,05,02,Sunday
+2021-05-02,BC,Vancouver Island,North Vancouver Island,2,2.71,2021,05,02,Sunday
+2021-05-02,BC,Vancouver Island,South Vancouver Island,8,13.71,2021,05,02,Sunday
+2021-05-03,BC,Vancouver Coastal,Vancouver,105,103.71,2021,05,03,Monday
+2021-05-03,BC,Vancouver Island,Central Vancouver Island,6,9.57,2021,05,03,Monday
+2021-05-03,BC,Vancouver Island,North Vancouver Island,3,3.0,2021,05,03,Monday
+2021-05-03,BC,Vancouver Island,South Vancouver Island,8,12.57,2021,05,03,Monday
+2021-05-04,BC,Vancouver Coastal,Vancouver,96,102.43,2021,05,04,Tuesday
+2021-05-04,BC,Vancouver Island,Central Vancouver Island,2,8.29,2021,05,04,Tuesday
+2021-05-04,BC,Vancouver Island,North Vancouver Island,2,3.0,2021,05,04,Tuesday
+2021-05-04,BC,Vancouver Island,South Vancouver Island,16,11.71,2021,05,04,Tuesday
+2021-05-05,BC,Vancouver Coastal,Vancouver,102,100.0,2021,05,05,Wednesday
+2021-05-05,BC,Vancouver Island,Central Vancouver Island,6,7.71,2021,05,05,Wednesday
+2021-05-05,BC,Vancouver Island,North Vancouver Island,2,2.71,2021,05,05,Wednesday
+2021-05-05,BC,Vancouver Island,South Vancouver Island,8,10.43,2021,05,05,Wednesday
+2021-05-06,BC,Vancouver Coastal,Vancouver,91,97.57,2021,05,06,Thursday
+2021-05-06,BC,Vancouver Island,Central Vancouver Island,9,6.43,2021,05,06,Thursday
+2021-05-06,BC,Vancouver Island,North Vancouver Island,2,2.71,2021,05,06,Thursday
+2021-05-06,BC,Vancouver Island,South Vancouver Island,6,9.71,2021,05,06,Thursday
+2021-05-07,BC,Vancouver Coastal,Vancouver,80,93.14,2021,05,07,Friday
+2021-05-07,BC,Vancouver Island,Central Vancouver Island,6,5.71,2021,05,07,Friday
+2021-05-07,BC,Vancouver Island,North Vancouver Island,4,2.86,2021,05,07,Friday
+2021-05-07,BC,Vancouver Island,South Vancouver Island,13,9.86,2021,05,07,Friday
+2021-05-08,BC,Vancouver Coastal,Vancouver,84,93.71,2021,05,08,Saturday
+2021-05-08,BC,Vancouver Island,Central Vancouver Island,4,5.43,2021,05,08,Saturday
+2021-05-08,BC,Vancouver Island,North Vancouver Island,5,2.86,2021,05,08,Saturday
+2021-05-08,BC,Vancouver Island,South Vancouver Island,8,9.57,2021,05,08,Saturday
+2021-05-09,BC,Vancouver Coastal,Vancouver,77,90.71,2021,05,09,Sunday
+2021-05-09,BC,Vancouver Island,Central Vancouver Island,4,5.29,2021,05,09,Sunday
+2021-05-09,BC,Vancouver Island,North Vancouver Island,4,3.14,2021,05,09,Sunday
+2021-05-09,BC,Vancouver Island,South Vancouver Island,5,9.14,2021,05,09,Sunday
+2021-05-10,BC,Vancouver Coastal,Vancouver,80,87.14,2021,05,10,Monday
+2021-05-10,BC,Vancouver Island,Central Vancouver Island,7,5.43,2021,05,10,Monday
+2021-05-10,BC,Vancouver Island,North Vancouver Island,0,2.71,2021,05,10,Monday
+2021-05-10,BC,Vancouver Island,South Vancouver Island,5,8.71,2021,05,10,Monday
+2021-05-11,BC,Vancouver Coastal,Vancouver,101,87.86,2021,05,11,Tuesday
+2021-05-11,BC,Vancouver Island,Central Vancouver Island,4,5.71,2021,05,11,Tuesday
+2021-05-11,BC,Vancouver Island,North Vancouver Island,1,2.57,2021,05,11,Tuesday
+2021-05-11,BC,Vancouver Island,South Vancouver Island,5,7.14,2021,05,11,Tuesday
+2021-05-12,BC,Vancouver Coastal,Vancouver,94,86.71,2021,05,12,Wednesday
+2021-05-12,BC,Vancouver Island,Central Vancouver Island,11,6.43,2021,05,12,Wednesday
+2021-05-12,BC,Vancouver Island,North Vancouver Island,5,3.0,2021,05,12,Wednesday
+2021-05-12,BC,Vancouver Island,South Vancouver Island,3,6.43,2021,05,12,Wednesday
+2021-05-13,BC,Vancouver Coastal,Vancouver,79,85.0,2021,05,13,Thursday
+2021-05-13,BC,Vancouver Island,Central Vancouver Island,1,5.29,2021,05,13,Thursday
+2021-05-13,BC,Vancouver Island,North Vancouver Island,2,3.0,2021,05,13,Thursday
+2021-05-13,BC,Vancouver Island,South Vancouver Island,5,6.29,2021,05,13,Thursday
+2021-05-14,BC,Vancouver Coastal,Vancouver,74,84.14,2021,05,14,Friday
+2021-05-14,BC,Vancouver Island,Central Vancouver Island,10,5.86,2021,05,14,Friday
+2021-05-14,BC,Vancouver Island,North Vancouver Island,4,3.0,2021,05,14,Friday
+2021-05-14,BC,Vancouver Island,South Vancouver Island,4,5.0,2021,05,14,Friday
+2021-05-15,BC,Vancouver Coastal,Vancouver,79,83.43,2021,05,15,Saturday
+2021-05-15,BC,Vancouver Island,Central Vancouver Island,3,5.71,2021,05,15,Saturday
+2021-05-15,BC,Vancouver Island,North Vancouver Island,4,2.86,2021,05,15,Saturday
+2021-05-15,BC,Vancouver Island,South Vancouver Island,1,4.0,2021,05,15,Saturday
+2021-05-16,BC,Vancouver Coastal,Vancouver,49,79.43,2021,05,16,Sunday
+2021-05-16,BC,Vancouver Island,Central Vancouver Island,8,6.29,2021,05,16,Sunday
+2021-05-16,BC,Vancouver Island,North Vancouver Island,1,2.43,2021,05,16,Sunday
+2021-05-16,BC,Vancouver Island,South Vancouver Island,3,3.71,2021,05,16,Sunday
+2021-05-17,BC,Vancouver Coastal,Vancouver,53,75.57,2021,05,17,Monday
+2021-05-17,BC,Vancouver Island,Central Vancouver Island,3,5.71,2021,05,17,Monday
+2021-05-17,BC,Vancouver Island,North Vancouver Island,4,3.0,2021,05,17,Monday
+2021-05-17,BC,Vancouver Island,South Vancouver Island,4,3.57,2021,05,17,Monday
+2021-05-18,BC,Vancouver Coastal,Vancouver,54,68.86,2021,05,18,Tuesday
+2021-05-18,BC,Vancouver Island,Central Vancouver Island,11,6.71,2021,05,18,Tuesday
+2021-05-18,BC,Vancouver Island,North Vancouver Island,3,3.29,2021,05,18,Tuesday
+2021-05-18,BC,Vancouver Island,South Vancouver Island,3,3.29,2021,05,18,Tuesday
+2021-05-19,BC,Vancouver Coastal,Vancouver,61,64.14,2021,05,19,Wednesday
+2021-05-19,BC,Vancouver Island,Central Vancouver Island,4,5.71,2021,05,19,Wednesday
+2021-05-19,BC,Vancouver Island,North Vancouver Island,4,3.14,2021,05,19,Wednesday
+2021-05-19,BC,Vancouver Island,South Vancouver Island,4,3.43,2021,05,19,Wednesday
+2021-05-20,BC,Vancouver Coastal,Vancouver,73,63.29,2021,05,20,Thursday
+2021-05-20,BC,Vancouver Island,Central Vancouver Island,4,6.14,2021,05,20,Thursday
+2021-05-20,BC,Vancouver Island,North Vancouver Island,2,3.14,2021,05,20,Thursday
+2021-05-20,BC,Vancouver Island,South Vancouver Island,1,2.86,2021,05,20,Thursday
+2021-05-21,BC,Vancouver Coastal,Vancouver,50,59.86,2021,05,21,Friday
+2021-05-21,BC,Vancouver Island,Central Vancouver Island,7,5.71,2021,05,21,Friday
+2021-05-21,BC,Vancouver Island,North Vancouver Island,2,2.86,2021,05,21,Friday
+2021-05-21,BC,Vancouver Island,South Vancouver Island,7,3.29,2021,05,21,Friday
+2021-05-22,BC,Vancouver Coastal,Vancouver,59,57.0,2021,05,22,Saturday
+2021-05-22,BC,Vancouver Island,Central Vancouver Island,1,5.43,2021,05,22,Saturday
+2021-05-22,BC,Vancouver Island,North Vancouver Island,0,2.29,2021,05,22,Saturday
+2021-05-22,BC,Vancouver Island,South Vancouver Island,3,3.57,2021,05,22,Saturday
+2021-05-23,BC,Vancouver Coastal,Vancouver,44,56.29,2021,05,23,Sunday
+2021-05-23,BC,Vancouver Island,Central Vancouver Island,4,4.86,2021,05,23,Sunday
+2021-05-23,BC,Vancouver Island,North Vancouver Island,3,2.57,2021,05,23,Sunday
+2021-05-23,BC,Vancouver Island,South Vancouver Island,0,3.14,2021,05,23,Sunday
+2021-05-24,BC,Vancouver Coastal,Vancouver,41,54.57,2021,05,24,Monday
+2021-05-24,BC,Vancouver Island,Central Vancouver Island,2,4.71,2021,05,24,Monday
+2021-05-24,BC,Vancouver Island,North Vancouver Island,2,2.29,2021,05,24,Monday
+2021-05-24,BC,Vancouver Island,South Vancouver Island,1,2.71,2021,05,24,Monday
+2021-05-25,BC,Vancouver Coastal,Vancouver,42,52.86,2021,05,25,Tuesday
+2021-05-25,BC,Vancouver Island,Central Vancouver Island,5,3.86,2021,05,25,Tuesday
+2021-05-25,BC,Vancouver Island,North Vancouver Island,2,2.14,2021,05,25,Tuesday
+2021-05-25,BC,Vancouver Island,South Vancouver Island,2,2.57,2021,05,25,Tuesday
+2021-05-26,BC,Vancouver Coastal,Vancouver,67,53.71,2021,05,26,Wednesday
+2021-05-26,BC,Vancouver Island,Central Vancouver Island,3,3.71,2021,05,26,Wednesday
+2021-05-26,BC,Vancouver Island,North Vancouver Island,1,1.71,2021,05,26,Wednesday
+2021-05-26,BC,Vancouver Island,South Vancouver Island,10,3.43,2021,05,26,Wednesday
+2021-05-27,BC,Vancouver Coastal,Vancouver,43,49.43,2021,05,27,Thursday
+2021-05-27,BC,Vancouver Island,Central Vancouver Island,2,3.43,2021,05,27,Thursday
+2021-05-27,BC,Vancouver Island,North Vancouver Island,0,1.43,2021,05,27,Thursday
+2021-05-27,BC,Vancouver Island,South Vancouver Island,1,3.43,2021,05,27,Thursday
+2021-05-28,BC,Vancouver Coastal,Vancouver,36,47.43,2021,05,28,Friday
+2021-05-28,BC,Vancouver Island,Central Vancouver Island,2,2.71,2021,05,28,Friday
+2021-05-28,BC,Vancouver Island,North Vancouver Island,0,1.14,2021,05,28,Friday
+2021-05-28,BC,Vancouver Island,South Vancouver Island,9,3.71,2021,05,28,Friday
+2021-05-29,BC,Vancouver Coastal,Vancouver,21,42.0,2021,05,29,Saturday
+2021-05-29,BC,Vancouver Island,Central Vancouver Island,5,3.29,2021,05,29,Saturday
+2021-05-29,BC,Vancouver Island,North Vancouver Island,0,1.14,2021,05,29,Saturday
+2021-05-29,BC,Vancouver Island,South Vancouver Island,1,3.43,2021,05,29,Saturday
+2021-05-30,BC,Vancouver Coastal,Vancouver,42,41.71,2021,05,30,Sunday
+2021-05-30,BC,Vancouver Island,Central Vancouver Island,1,2.86,2021,05,30,Sunday
+2021-05-30,BC,Vancouver Island,North Vancouver Island,0,0.71,2021,05,30,Sunday
+2021-05-30,BC,Vancouver Island,South Vancouver Island,0,3.43,2021,05,30,Sunday
+2021-05-31,BC,Vancouver Coastal,Vancouver,24,39.29,2021,05,31,Monday
+2021-05-31,BC,Vancouver Island,Central Vancouver Island,0,2.57,2021,05,31,Monday
+2021-05-31,BC,Vancouver Island,North Vancouver Island,0,0.43,2021,05,31,Monday
+2021-05-31,BC,Vancouver Island,South Vancouver Island,0,3.29,2021,05,31,Monday
+2021-06-01,BC,Vancouver Coastal,Vancouver,29,37.43,2021,06,01,Tuesday
+2021-06-01,BC,Vancouver Island,Central Vancouver Island,0,1.86,2021,06,01,Tuesday
+2021-06-01,BC,Vancouver Island,North Vancouver Island,1,0.29,2021,06,01,Tuesday
+2021-06-01,BC,Vancouver Island,South Vancouver Island,1,3.14,2021,06,01,Tuesday
+2021-06-02,BC,Vancouver Coastal,Vancouver,40,33.57,2021,06,02,Wednesday
+2021-06-02,BC,Vancouver Island,Central Vancouver Island,0,1.43,2021,06,02,Wednesday
+2021-06-02,BC,Vancouver Island,North Vancouver Island,1,0.29,2021,06,02,Wednesday
+2021-06-02,BC,Vancouver Island,South Vancouver Island,1,1.86,2021,06,02,Wednesday
+2021-06-03,BC,Vancouver Coastal,Vancouver,30,31.71,2021,06,03,Thursday
+2021-06-03,BC,Vancouver Island,Central Vancouver Island,1,1.29,2021,06,03,Thursday
+2021-06-03,BC,Vancouver Island,North Vancouver Island,1,0.43,2021,06,03,Thursday
+2021-06-03,BC,Vancouver Island,South Vancouver Island,1,1.86,2021,06,03,Thursday
+2021-06-04,BC,Vancouver Coastal,Vancouver,26,30.29,2021,06,04,Friday
+2021-06-04,BC,Vancouver Island,Central Vancouver Island,0,1.0,2021,06,04,Friday
+2021-06-04,BC,Vancouver Island,North Vancouver Island,0,0.43,2021,06,04,Friday
+2021-06-04,BC,Vancouver Island,South Vancouver Island,1,0.71,2021,06,04,Friday
+2021-06-05,BC,Vancouver Coastal,Vancouver,10,28.71,2021,06,05,Saturday
+2021-06-05,BC,Vancouver Island,Central Vancouver Island,2,0.57,2021,06,05,Saturday
+2021-06-05,BC,Vancouver Island,North Vancouver Island,0,0.43,2021,06,05,Saturday
+2021-06-05,BC,Vancouver Island,South Vancouver Island,3,1.0,2021,06,05,Saturday
+2021-06-06,BC,Vancouver Coastal,Vancouver,11,24.29,2021,06,06,Sunday
+2021-06-06,BC,Vancouver Island,Central Vancouver Island,1,0.57,2021,06,06,Sunday
+2021-06-06,BC,Vancouver Island,North Vancouver Island,0,0.43,2021,06,06,Sunday
+2021-06-06,BC,Vancouver Island,South Vancouver Island,2,1.29,2021,06,06,Sunday
+2021-06-07,BC,Vancouver Coastal,Vancouver,18,23.43,2021,06,07,Monday
+2021-06-07,BC,Vancouver Island,Central Vancouver Island,1,0.71,2021,06,07,Monday
+2021-06-07,BC,Vancouver Island,North Vancouver Island,3,0.86,2021,06,07,Monday
+2021-06-07,BC,Vancouver Island,South Vancouver Island,7,2.29,2021,06,07,Monday
+2021-06-08,BC,Vancouver Coastal,Vancouver,20,22.14,2021,06,08,Tuesday
+2021-06-08,BC,Vancouver Island,Central Vancouver Island,1,0.86,2021,06,08,Tuesday
+2021-06-08,BC,Vancouver Island,North Vancouver Island,5,1.43,2021,06,08,Tuesday
+2021-06-08,BC,Vancouver Island,South Vancouver Island,7,3.14,2021,06,08,Tuesday
+2021-06-09,BC,Vancouver Coastal,Vancouver,16,18.71,2021,06,09,Wednesday
+2021-06-09,BC,Vancouver Island,Central Vancouver Island,4,1.43,2021,06,09,Wednesday
+2021-06-09,BC,Vancouver Island,North Vancouver Island,0,1.29,2021,06,09,Wednesday
+2021-06-09,BC,Vancouver Island,South Vancouver Island,7,4.0,2021,06,09,Wednesday
+2021-06-10,BC,Vancouver Coastal,Vancouver,18,17.0,2021,06,10,Thursday
+2021-06-10,BC,Vancouver Island,Central Vancouver Island,1,1.43,2021,06,10,Thursday
+2021-06-10,BC,Vancouver Island,North Vancouver Island,0,1.14,2021,06,10,Thursday
+2021-06-10,BC,Vancouver Island,South Vancouver Island,7,4.86,2021,06,10,Thursday
+2021-06-11,BC,Vancouver Coastal,Vancouver,10,14.71,2021,06,11,Friday
+2021-06-11,BC,Vancouver Island,Central Vancouver Island,0,1.43,2021,06,11,Friday
+2021-06-11,BC,Vancouver Island,North Vancouver Island,0,1.14,2021,06,11,Friday
+2021-06-11,BC,Vancouver Island,South Vancouver Island,4,5.29,2021,06,11,Friday
+2021-06-12,BC,Vancouver Coastal,Vancouver,14,15.29,2021,06,12,Saturday
+2021-06-12,BC,Vancouver Island,Central Vancouver Island,1,1.29,2021,06,12,Saturday
+2021-06-12,BC,Vancouver Island,North Vancouver Island,1,1.29,2021,06,12,Saturday
+2021-06-12,BC,Vancouver Island,South Vancouver Island,3,5.29,2021,06,12,Saturday
+2021-06-13,BC,Vancouver Coastal,Vancouver,8,14.86,2021,06,13,Sunday
+2021-06-13,BC,Vancouver Island,Central Vancouver Island,0,1.14,2021,06,13,Sunday
+2021-06-13,BC,Vancouver Island,North Vancouver Island,0,1.29,2021,06,13,Sunday
+2021-06-13,BC,Vancouver Island,South Vancouver Island,2,5.29,2021,06,13,Sunday
+2021-06-14,BC,Vancouver Coastal,Vancouver,19,15.0,2021,06,14,Monday
+2021-06-14,BC,Vancouver Island,Central Vancouver Island,1,1.14,2021,06,14,Monday
+2021-06-14,BC,Vancouver Island,North Vancouver Island,1,1.0,2021,06,14,Monday
+2021-06-14,BC,Vancouver Island,South Vancouver Island,3,4.71,2021,06,14,Monday
+2021-06-15,BC,Vancouver Coastal,Vancouver,10,13.57,2021,06,15,Tuesday
+2021-06-15,BC,Vancouver Island,Central Vancouver Island,0,1.0,2021,06,15,Tuesday
+2021-06-15,BC,Vancouver Island,North Vancouver Island,0,0.29,2021,06,15,Tuesday
+2021-06-15,BC,Vancouver Island,South Vancouver Island,5,4.43,2021,06,15,Tuesday
+2021-06-16,BC,Vancouver Coastal,Vancouver,20,14.14,2021,06,16,Wednesday
+2021-06-16,BC,Vancouver Island,Central Vancouver Island,1,0.57,2021,06,16,Wednesday
+2021-06-16,BC,Vancouver Island,North Vancouver Island,1,0.43,2021,06,16,Wednesday
+2021-06-16,BC,Vancouver Island,South Vancouver Island,2,3.71,2021,06,16,Wednesday
+2021-06-17,BC,Vancouver Coastal,Vancouver,10,13.0,2021,06,17,Thursday
+2021-06-17,BC,Vancouver Island,Central Vancouver Island,1,0.57,2021,06,17,Thursday
+2021-06-17,BC,Vancouver Island,North Vancouver Island,0,0.43,2021,06,17,Thursday
+2021-06-17,BC,Vancouver Island,South Vancouver Island,3,3.14,2021,06,17,Thursday
