@@ -1,2 +1,7 @@
-# BootcampProject1
-The first project of the bootcamp
+# BIKE THEFT ANALYSIS IN OTTAWA AND VANCOUVER DURING COVID19 
+
+### Team Members
+-Priya
+-Insiya
+-Andriy
+
