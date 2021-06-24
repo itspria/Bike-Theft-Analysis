@@ -19,3 +19,30 @@ Q1:  Explore if  major cities in Canada (Ottawa, Vancouver) have seen similar tr
 Q2: Identify the relationship between the bike theft rates and bicycle demand 
 
 Q3: Identify the relationship between the bike theft rates and number of covid cases
+
+### Methodology 
+ 
+Clean data
+
+Q1: 
+- Identify monthly number of thefts for two cities for each year (2018 - 2020).
+- Thefts on weekdays
+- Will use time series graphs to plot theft for each city 
+- Calculate key statistics for each city and year
+- Bonus: heat map of the theft areas 
+
+Q2: 
+- Identify monthly usage / bike trafic  for two cities for each year (2018 - 2020).
+- Calculate correlation b/w bike theft rates and usage
+- Run regression analysis and plot appropriate graths
+
+Q3:
+- Extract ----
+- Calculate correlation b/w ridership and covid cases
+- Calculate correlation b/w thefts and covid cases
+- Are red lockdown days have higher/lower thefts/ridership (anyone)
+- Find dates in 2020 if possible 
+- Run regression analysis and plot appropriate graths
+
+Summarise the results for each analysis, make conclusions, and write a report 
+
