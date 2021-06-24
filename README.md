@@ -46,3 +46,18 @@ Q3:
 
 Summarise the results for each analysis, make conclusions, and write a report 
 
+### Datasets Resource
+Vancouver
+- <https://vancouver.ca/streets-transportation/how-we-collect-bike-volumes.aspx>
+- <https://geodash.vpd.ca/opendata/>
+- <http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data>
+
+Ottawa
+- <https://open.ottawa.ca/datasets/ottawa::bicycle-theft-1/about>
+- <https://open.ottawa.ca/documents/f218592c7fe74788906cc6a0eb190af9/about>
+- <https://open.ottawa.ca/datasets/ottawa::covid-19-cases-and-deaths-in-ottawa/about>
+
+### Task Breakdown
+- Priya - Q3
+- Insiya - Q2
+- Andriy - Q1
