@@ -40,8 +40,7 @@ Q3:
 - Calculate correlation b/w ridership and covid cases
 - Calculate correlation b/w thefts and covid cases
 - Are red lockdown days have higher/lower thefts/ridership (anyone)
-- Find dates in 2020 if possible 
-- Run regression analysis and plot appropriate graths
+
 
 Summarise the results for each analysis, make conclusions, and write a report 
 
