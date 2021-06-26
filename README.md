@@ -59,3 +59,6 @@ Ottawa
 - Priya - Q3
 - Insiya - Q2
 - Andriy - Q1
+
+
+![WF Image](https://github.com/itspria/BootcampProject1/blob/main/raw_data/WF.PNG)
