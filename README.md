@@ -55,10 +55,7 @@ Ottawa
 - <https://open.ottawa.ca/documents/f218592c7fe74788906cc6a0eb190af9/about>
 - <https://open.ottawa.ca/datasets/ottawa::covid-19-cases-and-deaths-in-ottawa/about>
 
-### Task Breakdown
-- Priya - Q3
-- Insiya - Q2
-- Andriy - Q1
+### Analysis
 
 
 ![WF Image](https://github.com/itspria/BootcampProject1/blob/main/raw_data/WF.PNG)
