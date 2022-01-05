@@ -57,6 +57,17 @@ Ottawa
 
 ### Analysis
 ![Bike Thefts Yearly](https://github.com/itspria/BootcampProject1/blob/main/analysis/images/biketheftyearly.PNG)
+![Bike Thefts Monthly](https://github.com/itspria/BootcampProject1/blob/main/analysis/images/biketheftmonthly.PNG)
+![Bike Thefts Daily Ottawa](https://github.com/itspria/BootcampProject1/blob/main/analysis/images/dailythefts_ottawa.PNG)
+![Bike Thefts Daily Vancouver](https://github.com/itspria/BootcampProject1/blob/main/analysis/images/dailythefts_vancouver.PNG)
+![Bike Thefts Maps](https://github.com/itspria/BootcampProject1/blob/main/analysis/images/locations.PNG)
+![Bike Volume](https://github.com/itspria/BootcampProject1/blob/main/analysis/images/bikevolume.PNG)
+![Bike Thefts Vs Volume](https://github.com/itspria/BootcampProject1/blob/main/analysis/images/theftsvsvol_ottawa.PNG)
+![Bike Thefts Vs Covid-19 Ottawa](https://github.com/itspria/BootcampProject1/blob/main/analysis/images/covid_thefts_ottawa.PNG)
+![Bike Thefts Vs Covid-19 Vancouver](https://github.com/itspria/BootcampProject1/blob/main/analysis/images/covid_thefts_vc.PNG)
+![Bike Volume Vs Covid-19 Ottawa](https://github.com/itspria/BootcampProject1/blob/main/analysis/images/covid_vol_ott.PNG)
+![Bike Volume Vs Covid-19 Vancouver](https://github.com/itspria/BootcampProject1/blob/main/analysis/images/covid_vol_vc.PNG)
+![Conclusion](https://github.com/itspria/BootcampProject1/blob/main/analysis/images/conclusion.PNG)
 
 
 ![WF Image](https://github.com/itspria/BootcampProject1/blob/main/raw_data/WF.PNG)
