@@ -56,6 +56,7 @@ Ottawa
 - <https://open.ottawa.ca/datasets/ottawa::covid-19-cases-and-deaths-in-ottawa/about>
 
 ### Analysis
+![Bike Thefts Yearly](https://github.com/itspria/BootcampProject1/blob/main/analysis/images/biketheftyearly.PNG)
 
 
 ![WF Image](https://github.com/itspria/BootcampProject1/blob/main/raw_data/WF.PNG)
